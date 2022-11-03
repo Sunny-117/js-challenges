@@ -64,6 +64,7 @@
 - [并发多个请求，返回先得到response的。函数输入为url数组，输出为第一个返回的response的结果](https://github.com/Sunny-117/Front-end-handwritten-question/issues/165)
 - [JS异步数据流，实现并发异步请求，结果顺序输出](https://github.com/Sunny-117/Front-end-handwritten-question/issues/153)
 - [Promise串行](https://github.com/Sunny-117/Front-end-handwritten-question/issues/152)
+- [处理高并发, 100 条数据，带宽为 10， 跑满带宽](https://github.com/Sunny-117/Front-end-handwritten-question/issues/151)
 - []
 
 
