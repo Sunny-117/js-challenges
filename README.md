@@ -52,7 +52,7 @@
 - [js每隔一秒打印1,2,3,4,5](https://github.com/Sunny-117/Front-end-handwritten-question/issues/158)
 - [使用 setTimeout 实现 setInterval](https://github.com/Sunny-117/Front-end-handwritten-question/issues/156)
 - [promise实现图片异步加载](https://github.com/Sunny-117/Front-end-handwritten-question/issues/155)
-
+- [使用Promise封装AJAX请求](https://github.com/Sunny-117/Front-end-handwritten-question/issues/154)
 - [我们能反过来使用 setinterval 模拟实现 settimeout 吗？ ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/157)
 - [异步任务：依次发送3次网络请求，拿到服务器数据](https://github.com/Sunny-117/Front-end-handwritten-question/issues/172)
 - [实现网络请求超时判断，超过三秒视为超时](https://github.com/Sunny-117/Front-end-handwritten-question/issues/171)
