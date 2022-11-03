@@ -77,6 +77,15 @@
 - [写一个 mySetInterVal(fn, a, b)，每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal](https://github.com/Sunny-117/Front-end-handwritten-question/issues/141)
 - [产生一个不重复的随机数组](https://github.com/Sunny-117/Front-end-handwritten-question/issues/140)
 - [await async 如何实现 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/139)
+- [使用递归完成 1 到 100 的累加 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/138)
+- [打印出 1~10000 以内的对称数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/137)
+- [实现一个字符串匹配算法indexOf](https://github.com/Sunny-117/Front-end-handwritten-question/issues/136)
+- [请实现一个模块 math，支持链式调用math.add(2,4).minus(3).times(2); ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/135)
+- [手写用 ES6proxy 如何实现 arr[-1] 的访问（滴滴2020）](https://github.com/Sunny-117/Front-end-handwritten-question/issues/134)
+- [有一堆整数，请把他们分成三份，确保每一份和尽量相等（11，42，23，4，5，6 4 5 6 11 23 42 56 78 90） ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/133)
+- [之字形打印矩阵](https://github.com/Sunny-117/Front-end-handwritten-question/issues/132)
+- [数组中的最大值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/131)
+- [尾递归（斐波那契数列](https://github.com/Sunny-117/Front-end-handwritten-question/issues/130)
 
 
 
