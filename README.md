@@ -39,7 +39,8 @@
 - [String.prototype.zpadStart](https://github.com/Sunny-117/Front-end-handwritten-question/issues/23)
 - [Object.assign](https://github.com/Sunny-117/Front-end-handwritten-question/issues/25)
 - [Object.is](https://github.com/Sunny-117/Front-end-handwritten-question/issues/26)
-
+- [JSON.stringify](https://github.com/Sunny-117/Front-end-handwritten-question/issues/28)
+- []
 
 
 ## JS 库函数实现
