@@ -122,6 +122,22 @@
 - [一个数组，找出每个数组元素右侧第一个比当前数大的数的下标，时间复杂度O(N)](https://github.com/Sunny-117/Front-end-handwritten-question/issues/98)
 - [寻找出现次数最多的三个标签](https://github.com/Sunny-117/Front-end-handwritten-question/issues/97)
 - [素数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/96)
+- [实现日期格式化函数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/95)
+- [实现 jsonp](https://github.com/Sunny-117/Front-end-handwritten-question/issues/94)
+- [URL反转 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/93)
+- [解析 URL Params 为对象](https://github.com/Sunny-117/Front-end-handwritten-question/issues/92)
+- [调用计数器（支持重置）](https://github.com/Sunny-117/Front-end-handwritten-question/issues/91)
+- [颜色生成](https://github.com/Sunny-117/Front-end-handwritten-question/issues/90)
+- [JavaScript怎么清空数组](https://github.com/Sunny-117/Front-end-handwritten-question/issues/89)
+- [判断A、B数组的包含关系（值和数量），A属于B返回1，B属于A返回2，两者相等返回0，其他返回-1](https://github.com/Sunny-117/Front-end-handwritten-question/issues/88)
+- [对象的合并](https://github.com/Sunny-117/Front-end-handwritten-question/issues/87)
+- [实现一个 无限延伸数组](https://github.com/Sunny-117/Front-end-handwritten-question/issues/86))
+- [多行字符串转二维数组](https://github.com/Sunny-117/Front-end-handwritten-question/issues/85)
+- [请实现一个通用的Array解构赋值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/84)
+- [数组合并](https://github.com/Sunny-117/Front-end-handwritten-question/issues/83)
+- [数组交集，并集，差集](https://github.com/Sunny-117/Front-end-handwritten-question/issues/82)
+- [多维数组全排列](https://github.com/Sunny-117/Front-end-handwritten-question/issues/81)
+- [判断对象是否存在循环引用](https://github.com/Sunny-117/Front-end-handwritten-question/issues/80)
 
 
 
