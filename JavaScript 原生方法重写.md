@@ -1,41 +1,5 @@
 
 
-## get
-```javascript
-const obj = {
-    a: {
-        b: 123
-    },
-    arr: [
-        {
-            demo: 'demo'
-        }
-    ]
-}
-function getKey(obj, str) {
-    str = str.split('.')
-    let len = str.length;
-    for (let i = 0; i < len; i++) {
-        if (str[i] && str[i].indexOf('[') !== -1) {
-            let index = str[i].match(/\[(\d+)\]/)[1]
-            let name = str[i].split('[')[0]
-            if (name in obj) {
-                obj = obj[name][index]
-            } else {
-                return undefined
-            }
-        } else if (str[i] in obj && obj[str[i]]) {
-            obj = obj[str[i]]
-        } else {
-            return undefined
-        }
-
-    }
-    return obj
-}
-console.log(getKey(obj, 'a.b'));
-console.log(getKey(obj, 'arr[0].demo'));
-```
 ## set，map
 ```javascript
 class MySet {
