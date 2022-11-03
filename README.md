@@ -34,6 +34,8 @@
 - [Array.prototype.unshift](https://github.com/Sunny-117/Front-end-handwritten-question/issues/17)
 - [Array.prototype.copy](https://github.com/Sunny-117/Front-end-handwritten-question/issues/18)
 - [Array.prototype.getLevel](https://github.com/Sunny-117/Front-end-handwritten-question/issues/19)
+- [实现es6的set集合](https://github.com/Sunny-117/Front-end-handwritten-question/issues/21)
+
 
 ## JS 库函数实现
 
