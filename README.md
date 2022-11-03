@@ -43,6 +43,8 @@
 - [JSON.parse](https://github.com/Sunny-117/Front-end-handwritten-question/issues/29)
 - [call apply bind](https://github.com/Sunny-117/Front-end-handwritten-question/issues/30)
 - [instanceof](https://github.com/Sunny-117/Front-end-handwritten-question/issues/32)
+- [trim](https://github.com/Sunny-117/Front-end-handwritten-question/issues/33)
+- []
 
 
 ## JS 库函数实现
