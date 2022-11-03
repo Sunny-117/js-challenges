@@ -95,7 +95,11 @@
 - [随机生成字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/126)
 - [判断一个字符串是否为驼峰字符串， judge('ByteDance','BD') -> true judge('Bytedance','BD') -> false](https://github.com/Sunny-117/Front-end-handwritten-question/issues/125)
 - [压缩字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/124)
-- []
+- [Map场景题 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/123)
+- [输入50a6we8y20x 输出50个a，6个we，8个y，20个x](https://github.com/Sunny-117/Front-end-handwritten-question/issues/122)
+- [手写defineProperty](https://github.com/Sunny-117/Front-end-handwritten-question/issues/121)
+- [String string 值一样返回true Object Object 返回true function function 都是声明的一个新的变量 返回false](https://github.com/Sunny-117/Front-end-handwritten-question/issues/120)
+
 
 
 ## 树-场景题（hot）
