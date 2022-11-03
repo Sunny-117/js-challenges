@@ -13,9 +13,12 @@
 
 ## JavaScript HOT 100 题
 
-> 中大厂面试，最常考的100个题，每一题都非常具有代表性，想要准备面试突击的同学，优先看这些题
+> 中大厂面试，最常考的100个题，每一题都非常具有代表性，想要准备面试突击的同学，优先看这些题，祝在座的每一位都能拿到满意的offer
 
-- []
+- [实现Primise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+- [JSON2DOM = react的render函数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/37)
+- [树形结构转成列表](https://github.com/Sunny-117/Front-end-handwritten-question/issues/40)
+- [列表转成树形结构](https://github.com/Sunny-117/Front-end-handwritten-question/issues/41)
 
 
 ## 实现 Promise （hot）
