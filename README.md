@@ -73,6 +73,10 @@
 - [使用 Promise 实现每隔三秒输出时间](https://github.com/Sunny-117/Front-end-handwritten-question/issues/145)
 - [使用 Promise 改写回调地狱](https://github.com/Sunny-117/Front-end-handwritten-question/issues/144)
 - [设计一个函数，该函数的参数为可同时发送请求的大小，返回一个函数，该函数的参数为要请求的url。 实现的效果为，同时发送n个请求，当有请求返回后往请求队列里push新的请求，并输出刚刚结束的请求的返回值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/143)
+- [Promise.retry 超时重新请求，并在重试一定次数依然失败时输出缓存内容](https://github.com/Sunny-117/Front-end-handwritten-question/issues/142)
+- [写一个 mySetInterVal(fn, a, b)，每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal](https://github.com/Sunny-117/Front-end-handwritten-question/issues/141)
+- [产生一个不重复的随机数组](https://github.com/Sunny-117/Front-end-handwritten-question/issues/140)
+- [await async 如何实现 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/139)
 
 
 
