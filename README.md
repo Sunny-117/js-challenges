@@ -285,6 +285,17 @@
 
 - [实现圆形环状进度条](https://github.com/Sunny-117/Front-end-handwritten-question/issues/203)
 
+## 继承相关题
+
+- [原型链继承](https://github.com/Sunny-117/js-challenges/issues/207)
+- [借用构造函数继承](https://github.com/Sunny-117/js-challenges/issues/208)
+- [组合继承](https://github.com/Sunny-117/js-challenges/issues/209)
+- [原型式继承](https://github.com/Sunny-117/js-challenges/issues/210)
+- [寄生式继承](https://github.com/Sunny-117/js-challenges/issues/211)
+- [寄生组合式继承](https://github.com/Sunny-117/js-challenges/issues/212)
+- [入方式继承多个对象](https://github.com/Sunny-117/js-challenges/issues/213)
+- [ES6类继承extends](https://github.com/Sunny-117/js-challenges/issues/214)
+
 
 
 
@@ -300,6 +311,9 @@
 
 
 
+大家可以给仓库一些建议，本仓库资源来源于社区，也完全服务于社区 
+
+建议收集区：https://github.com/Sunny-117/js-challenges/discussions
 
 
 今天的issue到了上限了，github不让我提交了笑死，明天再来，大家等我呜呜呜
