@@ -6,7 +6,7 @@
 
 # 思考很久，用issue形式收集各种手写题，并让小伙伴们讨论题解
 
-## Promise 场景题
+## 实现 Promise （hot）
 
 - [完整实现Promise A+](https://github.com/Sunny-117/Front-end-handwritten-question/issues/8)
 - [实现Primise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
@@ -17,10 +17,11 @@
 - [Promise.resolve ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/6)
 - [Promise.reject](https://github.com/Sunny-117/Front-end-handwritten-question/issues/7)
 
+## Promise 周边场景题（hot）
 
+## 树-场景题（hot）
 
-
-
+## 实现 JS 原生方法
 
 
 
