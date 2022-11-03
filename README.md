@@ -24,7 +24,14 @@
 ## 实现 JS 原生方法
 
 - [Array.prototype.flat](https://github.com/Sunny-117/Front-end-handwritten-question/issues/9)
-- []
+- [Array.prototype.forEach](https://github.com/Sunny-117/Front-end-handwritten-question/issues/10)
+- [Array.prototype.map](https://github.com/Sunny-117/Front-end-handwritten-question/issues/11)
+- [Array.prototype.filter](https://github.com/Sunny-117/Front-end-handwritten-question/issues/12)
+- [Array.prototype.reduce](https://github.com/Sunny-117/Front-end-handwritten-question/issues/13)
+- [Array.prototype.fill](https://github.com/Sunny-117/Front-end-handwritten-question/issues/14)
+- [Array.prototype.includes](https://github.com/Sunny-117/Front-end-handwritten-question/issues/15)
+- [Array.prototype.push](https://github.com/Sunny-117/Front-end-handwritten-question/issues/16)
+- [Array.prototype.unshift](https://github.com/Sunny-117/Front-end-handwritten-question/issues/17)
 
 ## 目录
 
