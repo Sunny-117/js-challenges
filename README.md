@@ -43,6 +43,9 @@
 
 ## Promise 周边场景题（hot）
 
+- [异步任务：依次发送3次网络请求，拿到服务器数据](https://github.com/Sunny-117/Front-end-handwritten-question/issues/172)
+
+
 ## 树-场景题（hot）
 
 - [DOM2JSON](https://github.com/Sunny-117/Front-end-handwritten-question/issues/36)
