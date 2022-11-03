@@ -114,6 +114,7 @@
 
 ## 排序算法
 
+- [冒泡排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/193)
 - [选择排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/194)
 - [快速排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/195)
 - [插入排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/196)
