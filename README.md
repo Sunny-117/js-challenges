@@ -138,8 +138,27 @@
 - [数组交集，并集，差集](https://github.com/Sunny-117/Front-end-handwritten-question/issues/82)
 - [多维数组全排列](https://github.com/Sunny-117/Front-end-handwritten-question/issues/81)
 - [判断对象是否存在循环引用](https://github.com/Sunny-117/Front-end-handwritten-question/issues/80)
+- [实现函数solution(arr, k)](https://github.com/Sunny-117/Front-end-handwritten-question/issues/79)
+- [逆对象扁平](https://github.com/Sunny-117/Front-end-handwritten-question/issues/78)
+- [对象扁平化](https://github.com/Sunny-117/Front-end-handwritten-question/issues/77)
+- [实现 执行一次的函数 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/76)
+- [链式调用](https://github.com/Sunny-117/Front-end-handwritten-question/issues/75)
+- [偏函数 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/74)
+- [实现管道函数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/73)
+- [手写事件代理（委托） ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/72)
+- [数据类型判断](https://github.com/Sunny-117/Front-end-handwritten-question/issues/71)
+- [类数组转数组](https://github.com/Sunny-117/Front-end-handwritten-question/issues/70)
+- [预加载](https://github.com/Sunny-117/Front-end-handwritten-question/issues/69)
+- [图片懒加载](https://github.com/Sunny-117/Front-end-handwritten-question/issues/68)
+- [数组去重](https://github.com/Sunny-117/Front-end-handwritten-question/issues/67)
+- [防抖 节流](https://github.com/Sunny-117/Front-end-handwritten-question/issues/66)
+- [函数组合 compose redux-saga koa 洋葱模型](https://github.com/Sunny-117/Front-end-handwritten-question/issues/65)
+- [sum(x,y)和sum(x)(y)](https://github.com/Sunny-117/Front-end-handwritten-question/issues/64)
+- [curry柯里化](https://github.com/Sunny-117/Front-end-handwritten-question/issues/63)
 
+## 设计模式相关
 
+- []
 
 ## 树-场景题（hot）
 
