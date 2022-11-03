@@ -8,6 +8,7 @@
 
 ## Promise 场景题
 
+- [完整实现Promise A+](https://github.com/Sunny-117/Front-end-handwritten-question/issues/8)
 - [实现Primise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
 - [实现Promise.prototype.finally](https://github.com/Sunny-117/Front-end-handwritten-question/issues/2)
 - [实现Promise.allSettled](https://github.com/Sunny-117/Front-end-handwritten-question/issues/3)
