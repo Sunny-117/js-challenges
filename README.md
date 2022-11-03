@@ -4,6 +4,20 @@
 
 谢谢您的star，您的star是我更新的动力🥳
 
+# 思考很久，用issue形式收集各种手写题，并让小伙伴们讨论题解
+
+## Promise 场景题
+
+- [实现Primise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+- [实现Promise.finally](https://github.com/Sunny-117/Front-end-handwritten-question/issues/2)
+- [实现Promise.allSettled](https://github.com/Sunny-117/Front-end-handwritten-question/issues/3)
+- [实现Primise.race](https://github.com/Sunny-117/Front-end-handwritten-question/issues/4)
+- [实现 Promise.prototype.catch](https://github.com/Sunny-117/Front-end-handwritten-question/issues/5)
+
+
+
+
+
 
 ## 目录
 
@@ -22,9 +36,3 @@
 更新中
 ![image](https://user-images.githubusercontent.com/73089592/194744593-1e9e95d2-2975-42d0-9751-5c9ee24232fb.png)
 
-
-# 思考很久，暂时用issue形式收集各种手写题，并让小伙伴们讨论题解
-
-## Promise 场景题
-
-- [实现Primise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
