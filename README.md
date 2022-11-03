@@ -62,6 +62,9 @@
 - [setTimeout准时](https://github.com/Sunny-117/Front-end-handwritten-question/issues/167)
 - [请求五秒未完成则终止](https://github.com/Sunny-117/Front-end-handwritten-question/issues/166)
 - [并发多个请求，返回先得到response的。函数输入为url数组，输出为第一个返回的response的结果](https://github.com/Sunny-117/Front-end-handwritten-question/issues/165)
+- [JS异步数据流，实现并发异步请求，结果顺序输出](https://github.com/Sunny-117/Front-end-handwritten-question/issues/153)
+- [Promise串行](https://github.com/Sunny-117/Front-end-handwritten-question/issues/152)
+- []
 
 
 ## 树-场景题（hot）
