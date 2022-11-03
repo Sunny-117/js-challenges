@@ -90,7 +90,12 @@
 - [数组中的最大值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/131)
 - [尾递归（斐波那契数列](https://github.com/Sunny-117/Front-end-handwritten-question/issues/130)
 - [实现简单路由 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/129)
-
+- [封装一个localstorage的setItem和getItem方法](https://github.com/Sunny-117/Front-end-handwritten-question/issues/128)
+- [1-1000回文数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/127)
+- [随机生成字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/126)
+- [判断一个字符串是否为驼峰字符串， judge('ByteDance','BD') -> true judge('Bytedance','BD') -> false](https://github.com/Sunny-117/Front-end-handwritten-question/issues/125)
+- [压缩字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/124)
+- []
 
 
 ## 树-场景题（hot）
