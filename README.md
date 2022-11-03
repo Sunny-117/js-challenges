@@ -114,10 +114,15 @@
 
 ## 排序算法
 
+- [选择排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/194)
+- [快速排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/195)
+- [插入排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/196)
+- [归并排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/197)
 - [基数排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/202)
 - [计数排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/201)
 - [希尔排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/200)
-- []
+- [桶排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/199)
+- [堆排序](https://github.com/Sunny-117/Front-end-handwritten-question/issues/198)
 ## HTML CSS 手写题
 
 - [实现圆形环状进度条](https://github.com/Sunny-117/Front-end-handwritten-question/issues/203)
