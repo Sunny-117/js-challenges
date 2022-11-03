@@ -25,7 +25,9 @@
 - [Array.prototype.map](https://github.com/Sunny-117/Front-end-handwritten-question/issues/11)
 - [正则表达式模版字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/48)
 - [lodash.get](https://github.com/Sunny-117/Front-end-handwritten-question/issues/20)
-- [深拷贝](...)
+- [深拷贝](https://github.com/Sunny-117/Front-end-handwritten-question/issues/58)
+- [寄生组合式继承](https://github.com/Sunny-117/Front-end-handwritten-question/issues/59)
+
 
 ## 实现 Promise （hot）
 
@@ -158,7 +160,8 @@
 
 ## 设计模式相关
 
-- []
+- [观察者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/62)
+
 
 ## 树-场景题（hot）
 
