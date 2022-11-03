@@ -130,7 +130,10 @@
 - [Hooks怎么封装手势逻辑](https://github.com/Sunny-117/Front-end-handwritten-question/issues/192)
 - [Hooks实现移动端的滑动轮播插件 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/191)
 - [如何用 Hooks 模拟 componentDidMount 与componentWillUnmount](https://github.com/Sunny-117/Front-end-handwritten-question/issues/190)
-- []
+- [实现一个useBodyScrollLock ，当出现弹窗时 阻止背景滚动](https://github.com/Sunny-117/Front-end-handwritten-question/issues/189)
+- [ts 实现 hooks: useInterval](https://github.com/Sunny-117/Front-end-handwritten-question/issues/188)
+- [实现 useQuery](https://github.com/Sunny-117/Front-end-handwritten-question/issues/187)
+- [实现useRequest](https://github.com/Sunny-117/Front-end-handwritten-question/issues/186)
 ## HTML CSS 手写题
 
 - [实现圆形环状进度条](https://github.com/Sunny-117/Front-end-handwritten-question/issues/203)
