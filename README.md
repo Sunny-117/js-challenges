@@ -75,6 +75,9 @@
 - [设计一个函数，该函数的参数为可同时发送请求的大小，返回一个函数，该函数的参数为要请求的url。 实现的效果为，同时发送n个请求，当有请求返回后往请求队列里push新的请求，并输出刚刚结束的请求的返回值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/143)
 - [Promise.retry 超时重新请求，并在重试一定次数依然失败时输出缓存内容](https://github.com/Sunny-117/Front-end-handwritten-question/issues/142)
 - [写一个 mySetInterVal(fn, a, b)，每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal](https://github.com/Sunny-117/Front-end-handwritten-question/issues/141)
+
+## JavaScript 常考手写题
+
 - [产生一个不重复的随机数组](https://github.com/Sunny-117/Front-end-handwritten-question/issues/140)
 - [await async 如何实现 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/139)
 - [使用递归完成 1 到 100 的累加 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/138)
@@ -86,6 +89,7 @@
 - [之字形打印矩阵](https://github.com/Sunny-117/Front-end-handwritten-question/issues/132)
 - [数组中的最大值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/131)
 - [尾递归（斐波那契数列](https://github.com/Sunny-117/Front-end-handwritten-question/issues/130)
+- [实现简单路由 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/129)
 
 
 
