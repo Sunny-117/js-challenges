@@ -1,18 +1,3 @@
-## getLevel
-```javascript
-Array.prototype.getLevel = function () {
-    let max = 1
-    for (const a of this) {
-        if (a instanceof Array) {
-            const depth = a.getLevel() + 1
-            if (max < depth) max = depth
-        }
-    }
-    return max
-};
-const a1 = [1, 2, [1], [1, [2, [3]]]];
-console.log(a1.getLevel()); //4
-```
 
 
 ## get

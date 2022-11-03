@@ -33,6 +33,8 @@
 - [Array.prototype.push](https://github.com/Sunny-117/Front-end-handwritten-question/issues/16)
 - [Array.prototype.unshift](https://github.com/Sunny-117/Front-end-handwritten-question/issues/17)
 - [Array.prototype.copy](https://github.com/Sunny-117/Front-end-handwritten-question/issues/18)
+- [Array.prototype.getLevel](https://github.com/Sunny-117/Front-end-handwritten-question/issues/19)
+
 
 ## 目录
 
