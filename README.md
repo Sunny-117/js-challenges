@@ -77,10 +77,16 @@
 ## 正则相关
 
 - [正则表达式模版字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/48)
-
 - [正则判断手机号，qq，颜色，邮箱](https://github.com/Sunny-117/Front-end-handwritten-question/issues/49)
+- [字符串的大小写取反](https://github.com/Sunny-117/Front-end-handwritten-question/issues/50)
+- [检验字符串首尾是否含有数字](https://github.com/Sunny-117/Front-end-handwritten-question/issues/51)
+- [去除字符串空格](https://github.com/Sunny-117/Front-end-handwritten-question/issues/52)
+- [去除字符串中的字母](https://github.com/Sunny-117/Front-end-handwritten-question/issues/53)
+- [正则 驼峰转换](https://github.com/Sunny-117/Front-end-handwritten-question/issues/54)
+- [对象key的驼峰转下划线](https://github.com/Sunny-117/Front-end-handwritten-question/issues/55)
+- [判断字符串中是否存在连续的三个数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/56)
 
-- []
+
 
 
 
