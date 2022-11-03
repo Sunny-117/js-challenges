@@ -44,7 +44,8 @@
 - [call apply bind](https://github.com/Sunny-117/Front-end-handwritten-question/issues/30)
 - [instanceof](https://github.com/Sunny-117/Front-end-handwritten-question/issues/32)
 - [trim](https://github.com/Sunny-117/Front-end-handwritten-question/issues/33)
-- []
+- [实现new](https://github.com/Sunny-117/Front-end-handwritten-question/issues/34)
+- [String.prototype.repeat](https://github.com/Sunny-117/Front-end-handwritten-question/issues/35)
 
 
 ## JS 库函数实现
