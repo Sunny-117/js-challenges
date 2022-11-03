@@ -300,6 +300,9 @@
 
 
 
+大家可以给仓库一些建议，本仓库资源来源于社区，也完全服务于社区 
+
+建议收集区：https://github.com/Sunny-117/js-challenges/discussions
 
 
 今天的issue到了上限了，github不让我提交了笑死，明天再来，大家等我呜呜呜
