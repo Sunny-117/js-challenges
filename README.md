@@ -38,6 +38,8 @@
 - [实现es6的map集合](https://github.com/Sunny-117/Front-end-handwritten-question/issues/22)
 - [String.prototype.zpadStart](https://github.com/Sunny-117/Front-end-handwritten-question/issues/23)
 - [Object.assign](https://github.com/Sunny-117/Front-end-handwritten-question/issues/25)
+- [Object.is](https://github.com/Sunny-117/Front-end-handwritten-question/issues/26)
+
 
 
 ## JS 库函数实现

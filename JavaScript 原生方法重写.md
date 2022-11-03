@@ -2,38 +2,6 @@
 
 
 
-## Object.is
-
-```javascript
-Object.is = function (x, y) {
-  if (x === y) {
-    // 当前情况下，只有一种情况是特殊的，即 +0 -0
-    // 如果 x !== 0，则返回true
-    // 如果 x === 0，则需要判断+0和-0，则可以直接使用 1/+0 === Infinity 和 1/-0 === -Infinity来进行判断
-    return x !== 0 || 1 / x === 1 / y;
-  }
-  // x !== y 的情况下，只需要判断是否为NaN，如果x!==x，则说明x是NaN，同理y也一样
-  // x和y同时为NaN时，返回true
-  return x !== x && y !== y;
-};
-```
-
-## Object.create()
-```javascript
-Object.create2 = function(proto, propertyObject = undefined) {
-    function F() {}
-    F.prototype = proto
-    const obj = new F()
-    if (propertyObject != undefined) {
-        Object.defineProperties(obj, propertyObject)
-    }
-    if (proto === null) {
-        // 创建一个没有原型对象的对象，Object.create(null)
-        obj.__proto__ = null
-    }
-    return obj
-}
-```
 ## JSON.stringify
 实现一个函数toJSON，将传入的数据转换为JSON格式的字符串
 ```javascript
