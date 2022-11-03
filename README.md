@@ -136,6 +136,13 @@
 - [实现useRequest](https://github.com/Sunny-117/Front-end-handwritten-question/issues/186)
 
 ## 组件设计题（Vue/React/JS均可）
+
+- [全选](https://github.com/Sunny-117/Front-end-handwritten-question/issues/178)
+- [轮播图](https://github.com/Sunny-117/Front-end-handwritten-question/issues/177)
+- [根据response渲染table](https://github.com/Sunny-117/Front-end-handwritten-question/issues/176)
+- [歌词滚动功能(hot)](https://github.com/Sunny-117/Front-end-handwritten-question/issues/175)
+- [实现一个 百度搜索框 （搜索提示）](https://github.com/Sunny-117/Front-end-handwritten-question/issues/174)
+- [实现todos](https://github.com/Sunny-117/Front-end-handwritten-question/issues/173)
 - [计时器或倒计时组件](https://github.com/Sunny-117/Front-end-handwritten-question/issues/185)
 - [设计一个公会入驻信息提交页](https://github.com/Sunny-117/Front-end-handwritten-question/issues/184)
 - [编码实现宽高不相同图片的自适配排列](https://github.com/Sunny-117/Front-end-handwritten-question/issues/183)
