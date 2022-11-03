@@ -1,33 +1,5 @@
 
 
-## call apply bind
-
-```javascript
-Function.prototype.call2 = function(context, ...args) {
-  context = (context === undefined || context === null) ? window : context
-  context.__fn = this
-  let result = context.__fn(...args)
-  delete context.__fn
-  return result
-}
-Function.prototype.apply2 = function(context, args) {
-  context = (context === undefined || context === null) ? window : context
-  context.__fn = this
-  let result = context.__fn(...args)
-  delete context.__fn
-  return result
-}
-Function.prototype.bind2 = function(context, ...args1) {
-  context = (context === undefined || context === null) ? window : context
-  let _this = this
-  return function(...args2) {
-    context.__fn = _this
-    let result = context.__fn(...[...args1, ...args2])
-    delete context.__fn
-    return result
-  }
-}
-```
 ## promisify
 > 手动实现一个promisify函数的意思是：我们把一个异步请求的函数，封装成一个可以具有 then方法的函数，并且在then方法中返回异步方法执行结果的这么一个函数
 > 1. 具有 then 方法

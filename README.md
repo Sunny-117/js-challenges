@@ -41,6 +41,8 @@
 - [Object.is](https://github.com/Sunny-117/Front-end-handwritten-question/issues/26)
 - [JSON.stringify](https://github.com/Sunny-117/Front-end-handwritten-question/issues/28)
 - [JSON.parse](https://github.com/Sunny-117/Front-end-handwritten-question/issues/29)
+- [call apply bind](https://github.com/Sunny-117/Front-end-handwritten-question/issues/30)
+- 
 
 
 ## JS 库函数实现
