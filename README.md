@@ -47,6 +47,13 @@
 - [封装异步的fetch，使用async await方式来使用](https://github.com/Sunny-117/Front-end-handwritten-question/issues/163)
 - [repeat(console.log, 5, 1000)](https://github.com/Sunny-117/Front-end-handwritten-question/issues/162)
 - [封装一个工具函数输入一个promiseA返回一个promiseB如果超过1s没返回则抛出异常如果正常则输出正确的值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/161)
+- [请求5s未完成就终止](https://github.com/Sunny-117/Front-end-handwritten-question/issues/160)
+- [实现一个sleep函数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/159)
+- [js每隔一秒打印1,2,3,4,5](https://github.com/Sunny-117/Front-end-handwritten-question/issues/158)
+- [使用 setTimeout 实现 setInterval](https://github.com/Sunny-117/Front-end-handwritten-question/issues/156)
+- [promise实现图片异步加载](https://github.com/Sunny-117/Front-end-handwritten-question/issues/155)
+
+- [我们能反过来使用 setinterval 模拟实现 settimeout 吗？ ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/157)
 - [异步任务：依次发送3次网络请求，拿到服务器数据](https://github.com/Sunny-117/Front-end-handwritten-question/issues/172)
 - [实现网络请求超时判断，超过三秒视为超时](https://github.com/Sunny-117/Front-end-handwritten-question/issues/171)
 - [promise中断请求](https://github.com/Sunny-117/Front-end-handwritten-question/issues/170)
