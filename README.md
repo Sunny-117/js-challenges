@@ -134,6 +134,13 @@
 - [ts 实现 hooks: useInterval](https://github.com/Sunny-117/Front-end-handwritten-question/issues/188)
 - [实现 useQuery](https://github.com/Sunny-117/Front-end-handwritten-question/issues/187)
 - [实现useRequest](https://github.com/Sunny-117/Front-end-handwritten-question/issues/186)
+
+## 组件设计题（Vue/React/JS均可）
+- [计时器或倒计时组件](https://github.com/Sunny-117/Front-end-handwritten-question/issues/185)
+- [设计一个公会入驻信息提交页](https://github.com/Sunny-117/Front-end-handwritten-question/issues/184)
+- [编码实现宽高不相同图片的自适配排列](https://github.com/Sunny-117/Front-end-handwritten-question/issues/183)
+- [列表子元素顺序反转](https://github.com/Sunny-117/Front-end-handwritten-question/issues/182)
+- []
 ## HTML CSS 手写题
 
 - [实现圆形环状进度条](https://github.com/Sunny-117/Front-end-handwritten-question/issues/203)
