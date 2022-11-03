@@ -25,6 +25,7 @@
 - [Array.prototype.map](https://github.com/Sunny-117/Front-end-handwritten-question/issues/11)
 - [正则表达式模版字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/48)
 - [lodash.get](https://github.com/Sunny-117/Front-end-handwritten-question/issues/20)
+- [深拷贝](...)
 
 ## 实现 Promise （hot）
 
