@@ -86,6 +86,7 @@
 - [trim](https://github.com/Sunny-117/Front-end-handwritten-question/issues/33)
 - [实现new](https://github.com/Sunny-117/Front-end-handwritten-question/issues/34)
 - [String.prototype.repeat](https://github.com/Sunny-117/Front-end-handwritten-question/issues/35)
+- [String.prototype.includes](https://github.com/Sunny-117/Front-end-handwritten-question/issues/204)
 
 
 ## JS 库函数实现
