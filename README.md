@@ -29,7 +29,9 @@
 - [列表转成树形结构](https://github.com/Sunny-117/Front-end-handwritten-question/issues/41)
 - [对象树遍历](https://github.com/Sunny-117/Front-end-handwritten-question/issues/42)
 - [获取树对象属性](https://github.com/Sunny-117/Front-end-handwritten-question/issues/43)
-- []
+- [查找json中的children路径](https://github.com/Sunny-117/Front-end-handwritten-question/issues/44)
+- [对象字符串转化成树形结构](https://github.com/Sunny-117/Front-end-handwritten-question/issues/45)
+
 
 ## 实现 JS 原生方法
 
