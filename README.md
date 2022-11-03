@@ -42,7 +42,7 @@
 - [JSON.stringify](https://github.com/Sunny-117/Front-end-handwritten-question/issues/28)
 - [JSON.parse](https://github.com/Sunny-117/Front-end-handwritten-question/issues/29)
 - [call apply bind](https://github.com/Sunny-117/Front-end-handwritten-question/issues/30)
-- 
+- [instanceof](https://github.com/Sunny-117/Front-end-handwritten-question/issues/32)
 
 
 ## JS 库函数实现
@@ -52,6 +52,11 @@
 ## js utils
 
 - [判断一个对象是否是isPlainObject](https://github.com/Sunny-117/Front-end-handwritten-question/issues/24)
+
+## 手写 nodejs 模块
+
+- [promisify](https://github.com/Sunny-117/Front-end-handwritten-question/issues/31)
+
 
 ## 目录
 
