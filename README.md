@@ -78,6 +78,8 @@
 
 - [正则表达式模版字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/48)
 
+- [正则判断手机号，qq，颜色，邮箱](https://github.com/Sunny-117/Front-end-handwritten-question/issues/49)
+
 - []
 
 
