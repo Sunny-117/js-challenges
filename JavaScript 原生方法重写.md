@@ -1,23 +1,5 @@
 
 
-
-
-## JSON.parse
-
-- eval 实现
-
-```javascript
-var json = '{"a":"1", "b":2}';
-var obj = eval("(" + json + ")");  // obj 就是 json 反序列化之后得到的对象
-```
-
-- New Function
-
-```javascript
-var json = '{"name":"小姐姐", "age":20}';
-var obj = (new Function('return ' + json))();
-```
-
 ## call apply bind
 
 ```javascript
