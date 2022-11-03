@@ -103,7 +103,19 @@
 - [用一行代码，将数组中的字符串和字符串对象(new String(123))直接判定出来](https://github.com/Sunny-117/Front-end-handwritten-question/issues/118)
 - [before](https://github.com/Sunny-117/Front-end-handwritten-question/issues/117)
 - [实现一下 console.log ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/116)
-- []
+- [实现(5).add(3).minus(2)功能](https://github.com/Sunny-117/Front-end-handwritten-question/issues/115)
+- [将十进制数字转为二进制数字字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/114)
+- [封装remove child.remove()销毁自身](https://github.com/Sunny-117/Front-end-handwritten-question/issues/113)
+- [字符串中字母的出现次数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/112)
+- [输出一个等腰三角形](https://github.com/Sunny-117/Front-end-handwritten-question/issues/111)
+- [实现一个函数a，使其奇数次调用时返回1，偶数次调用时返回2（不能使用全局变量）](https://github.com/Sunny-117/Front-end-handwritten-question/issues/110)
+- [求 最接近的值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/109)
+- [不用循环求和](https://github.com/Sunny-117/Front-end-handwritten-question/issues/108)
+- [连续赋值操作](https://github.com/Sunny-117/Front-end-handwritten-question/issues/107)
+- [输入一串字符串，根据字符串求出每个字母的数量并返回结果对象。（数字为1时可省略](https://github.com/Sunny-117/Front-end-handwritten-question/issues/106)
+- [创建包含10个1的数组 多种方法](https://github.com/Sunny-117/Front-end-handwritten-question/issues/105)
+- [['zm', 'za', 'b', 'lm', 'ln', 'k'] ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/104)
+
 
 
 ## 树-场景题（hot）
