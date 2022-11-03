@@ -119,7 +119,10 @@
 - [['ab', 'c', 'ab', 'd', 'c'] => ['ab1', 'c1' ,'ab2', 'd', 'c2'] ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/102)
 - [移除空属性](https://github.com/Sunny-117/Front-end-handwritten-question/issues/101)
 - [判断两个对象是否相等](https://github.com/Sunny-117/Front-end-handwritten-question/issues/100)
-- []
+- [一个数组，找出每个数组元素右侧第一个比当前数大的数的下标，时间复杂度O(N)](https://github.com/Sunny-117/Front-end-handwritten-question/issues/98)
+- [寻找出现次数最多的三个标签](https://github.com/Sunny-117/Front-end-handwritten-question/issues/97)
+- [素数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/96)
+
 
 
 ## 树-场景题（hot）
@@ -167,6 +170,7 @@
 ## JS 库函数实现
 
 - [lodash.get](https://github.com/Sunny-117/Front-end-handwritten-question/issues/20)
+- [lodash.chunk](https://github.com/Sunny-117/Front-end-handwritten-question/issues/99)
 
 ## js utils
 
