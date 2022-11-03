@@ -43,7 +43,18 @@
 
 ## Promise 周边场景题（hot）
 
+- [交通灯](https://github.com/Sunny-117/Front-end-handwritten-question/issues/164)
+- [封装异步的fetch，使用async await方式来使用](https://github.com/Sunny-117/Front-end-handwritten-question/issues/163)
+- [repeat(console.log, 5, 1000)](https://github.com/Sunny-117/Front-end-handwritten-question/issues/162)
+- [封装一个工具函数输入一个promiseA返回一个promiseB如果超过1s没返回则抛出异常如果正常则输出正确的值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/161)
 - [异步任务：依次发送3次网络请求，拿到服务器数据](https://github.com/Sunny-117/Front-end-handwritten-question/issues/172)
+- [实现网络请求超时判断，超过三秒视为超时](https://github.com/Sunny-117/Front-end-handwritten-question/issues/171)
+- [promise中断请求](https://github.com/Sunny-117/Front-end-handwritten-question/issues/170)
+- [给定一系列的api，测量上传速度（实现的时候用的GET请求）并选择一个加载时间最短的api](https://github.com/Sunny-117/Front-end-handwritten-question/issues/169)
+- [settimeout系统补偿时间](https://github.com/Sunny-117/Front-end-handwritten-question/issues/168)
+- [setTimeout准时](https://github.com/Sunny-117/Front-end-handwritten-question/issues/167)
+- [请求五秒未完成则终止](https://github.com/Sunny-117/Front-end-handwritten-question/issues/166)
+- [并发多个请求，返回先得到response的。函数输入为url数组，输出为第一个返回的response的结果](https://github.com/Sunny-117/Front-end-handwritten-question/issues/165)
 
 
 ## 树-场景题（hot）
