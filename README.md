@@ -22,7 +22,9 @@
 - [Array.prototype.flat](https://github.com/Sunny-117/Front-end-handwritten-question/issues/9)
 - [instanceof](https://github.com/Sunny-117/Front-end-handwritten-question/issues/32)
 - [call apply bind](https://github.com/Sunny-117/Front-end-handwritten-question/issues/30)
-
+- [Array.prototype.map](https://github.com/Sunny-117/Front-end-handwritten-question/issues/11)
+- [正则表达式模版字符串](https://github.com/Sunny-117/Front-end-handwritten-question/issues/48)
+- [lodash.get](https://github.com/Sunny-117/Front-end-handwritten-question/issues/20)
 
 ## 实现 Promise （hot）
 
@@ -34,6 +36,9 @@
 - [实现 Promise.prototype.catch](https://github.com/Sunny-117/Front-end-handwritten-question/issues/5)
 - [Promise.resolve ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/6)
 - [Promise.reject](https://github.com/Sunny-117/Front-end-handwritten-question/issues/7)
+
+
+
 
 ## Promise 周边场景题（hot）
 
