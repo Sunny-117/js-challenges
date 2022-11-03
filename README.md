@@ -65,7 +65,15 @@
 - [JS异步数据流，实现并发异步请求，结果顺序输出](https://github.com/Sunny-117/Front-end-handwritten-question/issues/153)
 - [Promise串行](https://github.com/Sunny-117/Front-end-handwritten-question/issues/152)
 - [处理高并发, 100 条数据，带宽为 10， 跑满带宽](https://github.com/Sunny-117/Front-end-handwritten-question/issues/151)
-- []
+- [设计一个简单的任务队列, 要求分别在 1,3,4 秒后打印出 "1", "2", "3"；](https://github.com/Sunny-117/Front-end-handwritten-question/issues/150)
+- [实现有并行限制的 Promise 调度器](https://github.com/Sunny-117/Front-end-handwritten-question/issues/149)
+- [实现 Scheduler](https://github.com/Sunny-117/Front-end-handwritten-question/issues/148)
+- [有并发限制的Promise.all(ts类型) ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/147)
+- [实现 如果上一次的没请求完，之后的就无响应](https://github.com/Sunny-117/Front-end-handwritten-question/issues/146)
+- [使用 Promise 实现每隔三秒输出时间](https://github.com/Sunny-117/Front-end-handwritten-question/issues/145)
+- [使用 Promise 改写回调地狱](https://github.com/Sunny-117/Front-end-handwritten-question/issues/144)
+- [设计一个函数，该函数的参数为可同时发送请求的大小，返回一个函数，该函数的参数为要请求的url。 实现的效果为，同时发送n个请求，当有请求返回后往请求队列里push新的请求，并输出刚刚结束的请求的返回值](https://github.com/Sunny-117/Front-end-handwritten-question/issues/143)
+
 
 
 ## 树-场景题（hot）
