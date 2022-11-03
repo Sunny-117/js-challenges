@@ -1,19 +1,7 @@
 
 
-```javascript
 
-```
-## 实现填充字符串
-```javascript
-String.prototype.zpadStart = function (targetLength, padString) {
-    let string = this
-    while (string.length < targetLength) {
-        string = padString + string
-    }
-    return string
-}
-const res = 'abc'.padStart(8, "0");
-```
+
 ## plainObj
 ```javascript
 function isPlainObject(obj) {
