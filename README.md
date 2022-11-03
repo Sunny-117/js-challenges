@@ -28,6 +28,7 @@
 - [树形结构转成列表](https://github.com/Sunny-117/Front-end-handwritten-question/issues/40)
 - [列表转成树形结构](https://github.com/Sunny-117/Front-end-handwritten-question/issues/41)
 - [对象树遍历](https://github.com/Sunny-117/Front-end-handwritten-question/issues/42)
+- [获取树对象属性](https://github.com/Sunny-117/Front-end-handwritten-question/issues/43)
 - []
 
 ## 实现 JS 原生方法
