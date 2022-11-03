@@ -19,6 +19,9 @@
 - [JSON2DOM = react的render函数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/37)
 - [树形结构转成列表](https://github.com/Sunny-117/Front-end-handwritten-question/issues/40)
 - [列表转成树形结构](https://github.com/Sunny-117/Front-end-handwritten-question/issues/41)
+- [Array.prototype.flat](https://github.com/Sunny-117/Front-end-handwritten-question/issues/9)
+- [instanceof](https://github.com/Sunny-117/Front-end-handwritten-question/issues/32)
+- [call apply bind](https://github.com/Sunny-117/Front-end-handwritten-question/issues/30)
 
 
 ## 实现 Promise （hot）
