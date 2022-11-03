@@ -2,36 +2,6 @@
 
 
 
-## plainObj
-```javascript
-function isPlainObject(obj) {
-  if (typeof obj !== "object") {
-    return false;
-  }
-  return Object.getPrototypeOf(obj) === Object.prototype;
-}
-```
-## Object.assign
-```javascript
-Object.assign2 = function(target, ...source) {
-  let ret = Object(target) 
-  source.forEach(function(obj) {
-    if (obj) {
-      for (let key in obj) {
-        if (obj.hasOwnProperty(key)) {
-          ret[key] = obj[key]
-        }
-      }
-    }
-  })
-  return ret
-}
-const obj1 = {a: 1}
-const obj2 = {b: 2}
-const res = Object.assign2(obj1, obj2)
-console.log(obj1);
-```
-
 ## Object.is
 
 ```javascript

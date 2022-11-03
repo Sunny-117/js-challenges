@@ -43,6 +43,9 @@
 
 - [lodash.get](https://github.com/Sunny-117/Front-end-handwritten-question/issues/20)
 
+## js utils
+
+- [判断一个对象是否是isPlainObject](https://github.com/Sunny-117/Front-end-handwritten-question/issues/24)
 
 ## 目录
 
