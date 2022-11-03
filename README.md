@@ -99,7 +99,11 @@
 - [输入50a6we8y20x 输出50个a，6个we，8个y，20个x](https://github.com/Sunny-117/Front-end-handwritten-question/issues/122)
 - [手写defineProperty](https://github.com/Sunny-117/Front-end-handwritten-question/issues/121)
 - [String string 值一样返回true Object Object 返回true function function 都是声明的一个新的变量 返回false](https://github.com/Sunny-117/Front-end-handwritten-question/issues/120)
-
+- [对输入的字符串：去除其中的字符'b'；去除相邻的'a'和'c'](https://github.com/Sunny-117/Front-end-handwritten-question/issues/119)
+- [用一行代码，将数组中的字符串和字符串对象(new String(123))直接判定出来](https://github.com/Sunny-117/Front-end-handwritten-question/issues/118)
+- [before](https://github.com/Sunny-117/Front-end-handwritten-question/issues/117)
+- [实现一下 console.log ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/116)
+- []
 
 
 ## 树-场景题（hot）
