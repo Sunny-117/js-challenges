@@ -32,6 +32,7 @@
 - [Array.prototype.includes](https://github.com/Sunny-117/Front-end-handwritten-question/issues/15)
 - [Array.prototype.push](https://github.com/Sunny-117/Front-end-handwritten-question/issues/16)
 - [Array.prototype.unshift](https://github.com/Sunny-117/Front-end-handwritten-question/issues/17)
+- [Array.prototype.copy](https://github.com/Sunny-117/Front-end-handwritten-question/issues/18)
 
 ## 目录
 
