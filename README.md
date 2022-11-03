@@ -140,7 +140,10 @@
 - [设计一个公会入驻信息提交页](https://github.com/Sunny-117/Front-end-handwritten-question/issues/184)
 - [编码实现宽高不相同图片的自适配排列](https://github.com/Sunny-117/Front-end-handwritten-question/issues/183)
 - [列表子元素顺序反转](https://github.com/Sunny-117/Front-end-handwritten-question/issues/182)
-- []
+- [遍历树组件](https://github.com/Sunny-117/Front-end-handwritten-question/issues/181)
+- [选项卡](https://github.com/Sunny-117/Front-end-handwritten-question/issues/180)
+- [拖拽](https://github.com/Sunny-117/Front-end-handwritten-question/issues/179)
+
 ## HTML CSS 手写题
 
 - [实现圆形环状进度条](https://github.com/Sunny-117/Front-end-handwritten-question/issues/203)
