@@ -31,6 +31,7 @@
 - [获取树对象属性](https://github.com/Sunny-117/Front-end-handwritten-question/issues/43)
 - [查找json中的children路径](https://github.com/Sunny-117/Front-end-handwritten-question/issues/44)
 - [对象字符串转化成树形结构](https://github.com/Sunny-117/Front-end-handwritten-question/issues/45)
+- [判断有无符合路径和 -> 打印所有路径](https://github.com/Sunny-117/Front-end-handwritten-question/issues/46)
 
 
 ## 实现 JS 原生方法
