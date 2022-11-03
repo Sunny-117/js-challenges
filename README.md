@@ -11,6 +11,11 @@
 
 # 思考很久，用issue形式收集各种手写题，并让小伙伴们讨论题解
 
+## JavaScript HOT 100 题
+
+- []
+
+
 ## 实现 Promise （hot）
 
 - [完整实现Promise A+](https://github.com/Sunny-117/Front-end-handwritten-question/issues/8)
