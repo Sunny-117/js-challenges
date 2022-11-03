@@ -37,6 +37,7 @@
 - [实现es6的set集合](https://github.com/Sunny-117/Front-end-handwritten-question/issues/21)
 - [实现es6的map集合](https://github.com/Sunny-117/Front-end-handwritten-question/issues/22)
 - [String.prototype.zpadStart](https://github.com/Sunny-117/Front-end-handwritten-question/issues/23)
+- [Object.assign](https://github.com/Sunny-117/Front-end-handwritten-question/issues/25)
 
 
 ## JS 库函数实现
