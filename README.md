@@ -75,7 +75,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## 实现 Promise （hot）
 
 - [完整实现Promise A+](https://github.com/Sunny-117/Front-end-handwritten-question/issues/8)
-- [实现Primise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+- [实现Promise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
 - [实现Promise.prototype.finally](https://github.com/Sunny-117/Front-end-handwritten-question/issues/2)
 - [实现Promise.allSettled](https://github.com/Sunny-117/Front-end-handwritten-question/issues/3)
 - [实现Primise.race](https://github.com/Sunny-117/Front-end-handwritten-question/issues/4)
