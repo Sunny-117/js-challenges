@@ -45,8 +45,6 @@
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Sunny-117/js-challenges/issues). You can also take a look at the [contributing guide](https://github.com/Sunny-117/js-challenges#%E8%B4%A1%E7%8C%AE%E6%AD%A4%E9%A1%B9%E7%9B%AE).
 
-# 贡献此项目
-
 ![](./contribute.png)
 
 **先提交具体题目的issue，然后提对应的PR，千万不要只提交issue**
