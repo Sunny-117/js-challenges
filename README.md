@@ -174,6 +174,22 @@
 - [函数组合 compose redux-saga koa 洋葱模型](https://github.com/Sunny-117/Front-end-handwritten-question/issues/65)
 - [sum(x,y)和sum(x)(y)](https://github.com/Sunny-117/Front-end-handwritten-question/issues/64)
 - [curry柯里化](https://github.com/Sunny-117/Front-end-handwritten-question/issues/63)
+- [实现xxx时间之前的函数](https://github.com/Sunny-117/js-challenges/issues/252)
+- [n个2的n次方之和](https://github.com/Sunny-117/js-challenges/issues/253)
+- [无限动画](https://github.com/Sunny-117/js-challenges/issues/254)
+- [瀑布流](https://github.com/Sunny-117/js-challenges/issues/255)
+- [匹配 "a*c", "abcaacc" ](https://github.com/Sunny-117/js-challenges/issues/256)
+- [一个字符串中是否出现某串字符,出现的话返回索引](https://github.com/Sunny-117/js-challenges/issues/257)
+- [实现一个属性选择器](https://github.com/Sunny-117/js-challenges/issues/258)
+- [字符串转数字](https://github.com/Sunny-117/js-challenges/issues/259)
+- [实现一个跨浏览器事件工具](https://github.com/Sunny-117/js-challenges/issues/260)
+- [12 调用计数器（支持重置）](https://github.com/Sunny-117/js-challenges/issues/261)
+- [实现内存函数缓存函数调用结果](https://github.com/Sunny-117/js-challenges/issues/262)
+- [返回给定七个扑克牌是否有同花顺，数据结构 [{num: 1, hua: 's'}, ...]](https://github.com/Sunny-117/js-challenges/issues/263)
+- [JS定义一个 log 方法 ](https://github.com/Sunny-117/js-challenges/issues/264)
+- [阿拉伯数字专汉字(偏难)](https://github.com/Sunny-117/js-challenges/issues/265)
+- [用代码实现把字符串转换成base64编码](https://github.com/Sunny-117/js-challenges/issues/266)
+
 
 ## 设计模式相关
 
@@ -295,6 +311,20 @@
 ## HTML CSS 手写题
 
 - [实现圆形环状进度条](https://github.com/Sunny-117/Front-end-handwritten-question/issues/203)
+
+
+## JS 实现基本数据结构
+
+- [队列结构](https://github.com/Sunny-117/js-challenges/issues/242)
+- [哈希表](https://github.com/Sunny-117/js-challenges/issues/243)
+- [实现集合](https://github.com/Sunny-117/js-challenges/issues/244)
+- [用Javascript创建一个单链表](https://github.com/Sunny-117/js-challenges/issues/245)
+- [树结构](https://github.com/Sunny-117/js-challenges/issues/246)
+- [图结构](https://github.com/Sunny-117/js-challenges/issues/247)
+- [栈结构](https://github.com/Sunny-117/js-challenges/issues/248)
+- [js实现 堆](https://github.com/Sunny-117/js-challenges/issues/249)
+- [实现 Trie (前缀树)](https://github.com/Sunny-117/js-challenges/issues/250)
+- [top K](https://github.com/Sunny-117/js-challenges/issues/251)
 
 
 
