@@ -308,8 +308,9 @@
 
 ## 二叉树
 
-更新中
-![image](https://user-images.githubusercontent.com/73089592/194744593-1e9e95d2-2975-42d0-9751-5c9ee24232fb.png)
+# 更新中
+
+![](js.png)
 
 ![](algorithm.png)
 # 后续计划
@@ -323,7 +324,16 @@
 
 大家可以给仓库一些建议，本仓库资源来源于社区，也完全服务于社区 
 
-建议收集区：https://github.com/Sunny-117/js-challenges/discussions
+
+
+
+社区建议收集区：https://github.com/Sunny-117/js-challenges/discussions
+
+
+
+
+
+
 
 
 今天的issue到了上限了，github不让我提交了笑死，明天再来，大家等我呜呜呜
