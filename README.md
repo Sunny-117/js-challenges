@@ -311,6 +311,13 @@
 ## HTML CSS 手写题
 
 - [实现圆形环状进度条](https://github.com/Sunny-117/Front-end-handwritten-question/issues/203)
+- [等边三角形](https://github.com/Sunny-117/js-challenges/issues/224)
+- [实现 扇形](https://github.com/Sunny-117/js-challenges/issues/225)
+- [实现平行四边形](https://github.com/Sunny-117/js-challenges/issues/226)
+- [实现 九宫格](https://github.com/Sunny-117/js-challenges/issues/227)
+- [实现一个秒针绕一点转动的效果](https://github.com/Sunny-117/js-challenges/issues/228)
+- [实现一个 球 字节](https://github.com/Sunny-117/js-challenges/issues/229)
+
 
 
 ## JS 实现基本数据结构
