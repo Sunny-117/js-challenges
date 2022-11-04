@@ -271,6 +271,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [lodash.get](https://github.com/Sunny-117/Front-end-handwritten-question/issues/20)
 - [lodash.chunk](https://github.com/Sunny-117/Front-end-handwritten-question/issues/99)
 - [lodash.once](https://github.com/Sunny-117/js-challenges/issues/222)
+- [classnames](https://github.com/Sunny-117/js-challenges/issues/216)
 
 ## js utils
 
