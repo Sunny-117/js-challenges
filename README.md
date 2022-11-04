@@ -14,6 +14,12 @@
 
 **最后我把社区的好的答案汇总到一个目录下，答案专栏，方便刷题**
 
+主要是让大家讨论出最优解，然后merge，一起贡献这个项目，有些答案有点问题，所以我给出的答案仅作参考，也欢迎发现的小伙伴提PR
+
+# 贡献此项目
+
+**先提交具体题目的issue，然后提对应的PR**
+
 # 思考很久，用issue形式收集各种手写题，并让小伙伴们讨论题解
 
 ## JavaScript HOT 100 题
@@ -210,6 +216,7 @@
 - [trim](https://github.com/Sunny-117/Front-end-handwritten-question/issues/33)
 - [实现new](https://github.com/Sunny-117/Front-end-handwritten-question/issues/34)
 - [String.prototype.repeat](https://github.com/Sunny-117/Front-end-handwritten-question/issues/35)
+- [String.prototype.includes](https://github.com/Sunny-117/Front-end-handwritten-question/issues/204)
 
 
 ## JS 库函数实现
@@ -289,3 +296,18 @@
 更新中
 ![image](https://user-images.githubusercontent.com/73089592/194744593-1e9e95d2-2975-42d0-9751-5c9ee24232fb.png)
 
+# 后续计划
+
+- [ ] 做成OJ判题系统
+- [ ] 区分题目难易程度
+- [ ] 单元测试
+- [ ] 正确答案集合merge
+
+
+
+大家可以给仓库一些建议，本仓库资源来源于社区，也完全服务于社区 
+
+建议收集区：https://github.com/Sunny-117/js-challenges/discussions
+
+
+今天的issue到了上限了，github不让我提交了笑死，明天再来，大家等我呜呜呜
