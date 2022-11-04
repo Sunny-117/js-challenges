@@ -215,6 +215,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [JS定义一个 log 方法 ](https://github.com/Sunny-117/js-challenges/issues/264)
 - [阿拉伯数字专汉字(偏难)](https://github.com/Sunny-117/js-challenges/issues/265)
 - [用代码实现把字符串转换成base64编码](https://github.com/Sunny-117/js-challenges/issues/266)
+- [设计LRU缓存结构](https://github.com/Sunny-117/js-challenges/issues/272)
 
 
 ## 设计模式相关
