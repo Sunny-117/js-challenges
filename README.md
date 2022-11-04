@@ -47,9 +47,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ![](./contribute.png)
 
-
-# 思考很久，用issue形式收集各种手写题，并让小伙伴们讨论题解
-
 # 前端 JavaScript 手写题
 
 ## JavaScript HOT 100 题
