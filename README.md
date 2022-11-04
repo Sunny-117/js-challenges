@@ -396,23 +396,11 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [ ] 单元测试
 - [ ] 正确答案集合merge
 
-
-
 大家可以给仓库一些建议，本仓库资源来源于社区，也完全服务于社区 
-
-
 
 
 社区建议收集区：https://github.com/Sunny-117/js-challenges/discussions
 
-
-
-
-
-
-
-
-今天的issue到了上限了，github不让我提交了笑死，明天再来，大家等我呜呜呜
 
 
 
