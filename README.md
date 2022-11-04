@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to js-challenges 👋</h1>
-<img align="center" src="./logo.png">Welcome to js-challenges 👋</img>
+<h1 align="center">
+<img src="./logo.png"></img>
+</h1>
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
