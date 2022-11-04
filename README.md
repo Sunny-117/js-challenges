@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to js-challenges 👋</h1>
 <h1 align="center">
-<img src="./logo.png"></img>
+  <img src="./logo.png"></img>
 </h1>
 
 <p>
