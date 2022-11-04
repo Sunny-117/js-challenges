@@ -1,4 +1,6 @@
-# README
+
+
+# CONTENT
 
 前端手写题集锦 use js 记录大厂**笔试，面试常考**手写题，2022年前端面试中常见的 leetcode 算法题, 致力打造最全的前端JavaScript手写题题库和答案的最优解
 
