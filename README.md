@@ -1,4 +1,6 @@
 <h1 align="center">Welcome to js-challenges 👋</h1>
+<img align="center" src="./logo.png">Welcome to js-challenges 👋</img>
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/Sunny-117/js-challenges" target="_blank">
