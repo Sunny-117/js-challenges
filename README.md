@@ -47,11 +47,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ![](./contribute.png)
 
-**先提交具体题目的issue，然后提对应的PR，千万不要只提交issue**
-
-**先提交具体题目的issue，然后提对应的PR，千万不要只提交issue**
-
-**先提交具体题目的issue，然后提对应的PR，千万不要只提交issue**
 
 # 思考很久，用issue形式收集各种手写题，并让小伙伴们讨论题解
 
