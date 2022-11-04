@@ -1,3 +1,28 @@
+<h1 align="center">Welcome to js-challenges 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/Sunny-117/js-challenges" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://zh.wikipedia.org/zh-cn/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/zhiqiangfu6sun" target="_blank">
+    <img alt="Twitter: zhiqiangfu6sun" src="https://img.shields.io/twitter/follow/zhiqiangfu6sun.svg?style=social" />
+  </a>
+</p>
+
+> 集锦大厂面试常考的 前端手写题和leetcode算法题
+
+### 🏠 [Homepage](https://github.com/Sunny-117/js-challenges)
+
+## Author
+
+👤 **sunny-117**
+
+* Website: https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf
+* Twitter: [@zhiqiangfu6sun](https://twitter.com/zhiqiangfu6sun)
+* Github: [@sunny-117](https://github.com/sunny-117)
 
 
 # CONTENT
@@ -14,6 +39,11 @@
 **最后我把社区的好的答案汇总到一个目录下，答案专栏，方便刷题**
 
 主要是让大家讨论出最优解，然后merge，一起贡献这个项目，有些答案有点问题，所以我给出的答案仅作参考，也欢迎发现的小伙伴提PR
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Sunny-117/js-challenges/issues). You can also take a look at the [contributing guide](https://github.com/Sunny-117/js-challenges#%E8%B4%A1%E7%8C%AE%E6%AD%A4%E9%A1%B9%E7%9B%AE).
 
 # 贡献此项目
 
@@ -389,3 +419,17 @@
 
 
 今天的issue到了上限了，github不让我提交了笑死，明天再来，大家等我呜呜呜
+
+
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2022 [sunny-117](https://github.com/sunny-117).<br />
+This project is [MIT](https://zh.wikipedia.org/zh-cn/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
