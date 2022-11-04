@@ -323,7 +323,12 @@
 - [shadowDOM实现css隔离](https://github.com/Sunny-117/js-challenges/issues/233)
 - [两烂布局](https://github.com/Sunny-117/js-challenges/issues/234)
 - [宽高自适应正方形](https://github.com/Sunny-117/js-challenges/issues/235)
-
+- [1px问题](https://github.com/Sunny-117/js-challenges/issues/236)
+- [实现 筛子 ](https://github.com/Sunny-117/js-challenges/issues/237)
+- [css3实现多行文字截断处理](https://github.com/Sunny-117/js-challenges/issues/238)
+- [三栏布局移动优先设计](https://github.com/Sunny-117/js-challenges/issues/239)
+- [css 实现一个自适应搜索框](https://github.com/Sunny-117/js-challenges/issues/240)
+- [css书卡布局](https://github.com/Sunny-117/js-challenges/issues/241)
 
 
 ## JS 实现基本数据结构
