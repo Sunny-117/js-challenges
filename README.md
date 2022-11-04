@@ -78,7 +78,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [实现Primise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
 - [实现Promise.prototype.finally](https://github.com/Sunny-117/Front-end-handwritten-question/issues/2)
 - [实现Promise.allSettled](https://github.com/Sunny-117/Front-end-handwritten-question/issues/3)
-- [实现Primise.race](https://github.com/Sunny-117/Front-end-handwritten-question/issues/4)
+- [实现Promise.race](https://github.com/Sunny-117/Front-end-handwritten-question/issues/4)
 - [实现 Promise.prototype.catch](https://github.com/Sunny-117/Front-end-handwritten-question/issues/5)
 - [Promise.resolve ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/6)
 - [Promise.reject](https://github.com/Sunny-117/Front-end-handwritten-question/issues/7)
