@@ -383,6 +383,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## 数组
 - [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
+- [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/277)
 ## 链表
 
 ## 二叉树
