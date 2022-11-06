@@ -124,7 +124,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## JavaScript 常考手写题
 
 - [产生一个不重复的随机数组](https://github.com/Sunny-117/Front-end-handwritten-question/issues/140)
-- [await async 如何实现 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/139)
+- [await async 如何实现 ](https://github.com/Sunny-117/js-challenges/issues/280)
 - [使用递归完成 1 到 100 的累加 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/138)
 - [打印出 1~10000 以内的对称数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/137)
 - [实现一个字符串匹配算法indexOf](https://github.com/Sunny-117/Front-end-handwritten-question/issues/136)
