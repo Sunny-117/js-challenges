@@ -1,0 +1,4 @@
+.cache
+dist
+playground/*.mjs
+node_modules
