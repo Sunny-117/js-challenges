@@ -372,7 +372,9 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [实现 Trie (前缀树)](https://github.com/Sunny-117/js-challenges/issues/250)
 - [top K](https://github.com/Sunny-117/js-challenges/issues/251)
 
+## 其他 
 
+- [tools-js](https://github.com/Sunny-117/js-challenges/issues/283)
 
 # 前端常考 leetcode 算法题
 
