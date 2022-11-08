@@ -389,8 +389,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
 - [矩形重叠](https://github.com/Sunny-117/js-challenges/issues/321)
 
-## 数组
-- [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
 ## 链表
 - [删除排序链表中的重复元素](https://github.com/Sunny-117/js-challenges/issues/284)
 - [反转链表](https://github.com/Sunny-117/js-challenges/issues/285)
