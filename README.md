@@ -412,6 +412,11 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [二叉树的前序遍历](https://github.com/Sunny-117/js-challenges/issues/303)
 - [二叉树的完全性检验](https://github.com/Sunny-117/js-challenges/issues/304)
 
+## 子序列问题
+
+- [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/305)
+- [最长连续递增序列](https://github.com/Sunny-117/js-challenges/issues/306)
+- [最长重复子数组]
 # 更新中
 
 ![](js.png)
