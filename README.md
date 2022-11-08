@@ -393,8 +393,16 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [环形链表 II](https://github.com/Sunny-117/js-challenges/issues/288)
 - [合并两个有序链表 ](https://github.com/Sunny-117/js-challenges/issues/289)
 - [链表中倒数第k个节点](https://github.com/Sunny-117/js-challenges/issues/290)
-
+- [两两交换链表中的节点](https://github.com/Sunny-117/js-challenges/issues/291)
+- [相交链表](https://github.com/Sunny-117/js-challenges/issues/292)
+- [K 个一组翻转链表](https://github.com/Sunny-117/js-challenges/issues/293)
+- [删除链表的倒数第 N 个结点](https://github.com/Sunny-117/js-challenges/issues/294)
+- [链表的中间结点](https://github.com/Sunny-117/js-challenges/issues/295)
 ## 二叉树
+
+- [路径总和](https://github.com/Sunny-117/js-challenges/issues/296)
+- [路径总和 II](https://github.com/Sunny-117/js-challenges/issues/297)
+- [二叉树的所有路径](https://github.com/Sunny-117/js-challenges/issues/298)
 
 # 更新中
 
