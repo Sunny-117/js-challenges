@@ -383,7 +383,11 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 > 所有题目的名称都对应leetcode，可以自行搜索，完成题目后欢迎把答案贡献给issue评论区，大家讨论最优解后merge到答案文档区
 
 ## 矩阵相关
-- [打印一个螺旋矩阵](https://github.com/Sunny-117/js-challenges/issues/217)
+- [螺旋矩阵](https://github.com/Sunny-117/js-challenges/issues/217)
+- [旋转矩阵](https://github.com/Sunny-117/js-challenges/issues/317)
+- [旋转图像](https://github.com/Sunny-117/js-challenges/issues/318)
+- [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
+- [矩形重叠](https://github.com/Sunny-117/js-challenges/issues/321)
 
 ## 数组
 - [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
@@ -425,7 +429,10 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## 回文专题
 
 - [最长回文子串](https://github.com/Sunny-117/js-challenges/issues/312)
-
+- [回文数](https://github.com/Sunny-117/js-challenges/issues/313)
+- [验证回文串](https://github.com/Sunny-117/js-challenges/issues/314)
+- [验证回文字符串 Ⅱ](https://github.com/Sunny-117/js-challenges/issues/315)
+- [分割回文串（字节广告）](https://github.com/Sunny-117/js-challenges/issues/316)
 
 # 更新中
 
