@@ -386,6 +386,13 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## 数组
 - [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
 ## 链表
+- [删除排序链表中的重复元素](https://github.com/Sunny-117/js-challenges/issues/284)
+- [反转链表](https://github.com/Sunny-117/js-challenges/issues/285)
+- [反转链表 II](https://github.com/Sunny-117/js-challenges/issues/286)
+- [环形链表](https://github.com/Sunny-117/js-challenges/issues/287)
+- [环形链表 II](https://github.com/Sunny-117/js-challenges/issues/288)
+- [合并两个有序链表 ](https://github.com/Sunny-117/js-challenges/issues/289)
+- [链表中倒数第k个节点](https://github.com/Sunny-117/js-challenges/issues/290)
 
 ## 二叉树
 
