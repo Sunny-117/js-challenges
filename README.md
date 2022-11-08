@@ -416,7 +416,17 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 - [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/305)
 - [最长连续递增序列](https://github.com/Sunny-117/js-challenges/issues/306)
-- [最长重复子数组]
+- [最长重复子数组](https://github.com/Sunny-117/js-challenges/issues/307)
+- [最长公共子序列](https://github.com/Sunny-117/js-challenges/issues/308)
+- [判断子序列 ](https://github.com/Sunny-117/js-challenges/issues/309)
+- [不相交的线](https://github.com/Sunny-117/js-challenges/issues/310)
+- [编辑距离](https://github.com/Sunny-117/js-challenges/issues/311)
+
+## 回文专题
+
+- [最长回文子串](https://github.com/Sunny-117/js-challenges/issues/312)
+
+
 # 更新中
 
 ![](js.png)
