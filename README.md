@@ -405,6 +405,12 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [路径总和](https://github.com/Sunny-117/js-challenges/issues/296)
 - [路径总和 II](https://github.com/Sunny-117/js-challenges/issues/297)
 - [二叉树的所有路径](https://github.com/Sunny-117/js-challenges/issues/298)
+- [二叉树的层序遍历](https://github.com/Sunny-117/js-challenges/issues/299)
+- [二叉树的锯齿形层序遍历](https://github.com/Sunny-117/js-challenges/issues/300)
+- [N 叉树的层序遍历](https://github.com/Sunny-117/js-challenges/issues/301)
+- [二叉树的最大深度](https://github.com/Sunny-117/js-challenges/issues/302)
+- [二叉树的前序遍历](https://github.com/Sunny-117/js-challenges/issues/303)
+- [二叉树的完全性检验](https://github.com/Sunny-117/js-challenges/issues/304)
 
 # 更新中
 
