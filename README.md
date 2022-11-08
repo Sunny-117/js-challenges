@@ -380,6 +380,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## 前端 HOT 100题
 
+> 所有题目的名称都对应leetcode，可以自行搜索，完成题目后欢迎把答案贡献给issue评论区，大家讨论最优解后merge到答案文档区
+
 ## 矩阵相关
 - [打印一个螺旋矩阵](https://github.com/Sunny-117/js-challenges/issues/217)
 
