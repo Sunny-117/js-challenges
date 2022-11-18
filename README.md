@@ -419,7 +419,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## 子序列问题
 
-- [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/305)
+- [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/326)
 - [最长连续递增序列](https://github.com/Sunny-117/js-challenges/issues/306)
 - [最长重复子数组](https://github.com/Sunny-117/js-challenges/issues/307)
 - [最长公共子序列](https://github.com/Sunny-117/js-challenges/issues/308)
