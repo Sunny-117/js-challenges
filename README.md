@@ -124,7 +124,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## JavaScript 常考手写题
 
 - [产生一个不重复的随机数组](https://github.com/Sunny-117/Front-end-handwritten-question/issues/140)
-- [await async 如何实现 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/139)
+- [await async 如何实现 ](https://github.com/Sunny-117/js-challenges/issues/280)
 - [使用递归完成 1 到 100 的累加 ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/138)
 - [打印出 1~10000 以内的对称数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/137)
 - [实现一个字符串匹配算法indexOf](https://github.com/Sunny-117/Front-end-handwritten-question/issues/136)
@@ -372,21 +372,68 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [实现 Trie (前缀树)](https://github.com/Sunny-117/js-challenges/issues/250)
 - [top K](https://github.com/Sunny-117/js-challenges/issues/251)
 
+## 其他 
 
+- [tools-js](https://github.com/Sunny-117/js-challenges/issues/283)
 
 # 前端常考 leetcode 算法题
 
 ## 前端 HOT 100题
 
+> 所有题目的名称都对应leetcode，可以自行搜索，完成题目后欢迎把答案贡献给issue评论区，大家讨论最优解后merge到答案文档区
+
 ## 矩阵相关
-- [打印一个螺旋矩阵](https://github.com/Sunny-117/js-challenges/issues/217)
+- [螺旋矩阵](https://github.com/Sunny-117/js-challenges/issues/217)
+- [旋转矩阵](https://github.com/Sunny-117/js-challenges/issues/317)
+- [旋转图像](https://github.com/Sunny-117/js-challenges/issues/318)
+- [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
+- [矩形重叠](https://github.com/Sunny-117/js-challenges/issues/321)
 
 ## 数组
 - [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
 - [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/277)
 ## 链表
-
+- [删除排序链表中的重复元素](https://github.com/Sunny-117/js-challenges/issues/284)
+- [反转链表](https://github.com/Sunny-117/js-challenges/issues/285)
+- [反转链表 II](https://github.com/Sunny-117/js-challenges/issues/286)
+- [环形链表](https://github.com/Sunny-117/js-challenges/issues/287)
+- [环形链表 II](https://github.com/Sunny-117/js-challenges/issues/288)
+- [合并两个有序链表 ](https://github.com/Sunny-117/js-challenges/issues/289)
+- [链表中倒数第k个节点](https://github.com/Sunny-117/js-challenges/issues/290)
+- [两两交换链表中的节点](https://github.com/Sunny-117/js-challenges/issues/291)
+- [相交链表](https://github.com/Sunny-117/js-challenges/issues/292)
+- [K 个一组翻转链表](https://github.com/Sunny-117/js-challenges/issues/293)
+- [删除链表的倒数第 N 个结点](https://github.com/Sunny-117/js-challenges/issues/294)
+- [链表的中间结点](https://github.com/Sunny-117/js-challenges/issues/295)
 ## 二叉树
+
+- [路径总和](https://github.com/Sunny-117/js-challenges/issues/296)
+- [路径总和 II](https://github.com/Sunny-117/js-challenges/issues/297)
+- [二叉树的所有路径](https://github.com/Sunny-117/js-challenges/issues/298)
+- [二叉树的层序遍历](https://github.com/Sunny-117/js-challenges/issues/299)
+- [二叉树的锯齿形层序遍历](https://github.com/Sunny-117/js-challenges/issues/300)
+- [N 叉树的层序遍历](https://github.com/Sunny-117/js-challenges/issues/301)
+- [二叉树的最大深度](https://github.com/Sunny-117/js-challenges/issues/302)
+- [二叉树的前序遍历](https://github.com/Sunny-117/js-challenges/issues/303)
+- [二叉树的完全性检验](https://github.com/Sunny-117/js-challenges/issues/304)
+
+## 子序列问题
+
+- [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/305)
+- [最长连续递增序列](https://github.com/Sunny-117/js-challenges/issues/306)
+- [最长重复子数组](https://github.com/Sunny-117/js-challenges/issues/307)
+- [最长公共子序列](https://github.com/Sunny-117/js-challenges/issues/308)
+- [判断子序列 ](https://github.com/Sunny-117/js-challenges/issues/309)
+- [不相交的线](https://github.com/Sunny-117/js-challenges/issues/310)
+- [编辑距离](https://github.com/Sunny-117/js-challenges/issues/311)
+
+## 回文专题
+
+- [最长回文子串](https://github.com/Sunny-117/js-challenges/issues/312)
+- [回文数](https://github.com/Sunny-117/js-challenges/issues/313)
+- [验证回文串](https://github.com/Sunny-117/js-challenges/issues/314)
+- [验证回文字符串 Ⅱ](https://github.com/Sunny-117/js-challenges/issues/315)
+- [分割回文串（字节广告）](https://github.com/Sunny-117/js-challenges/issues/316)
 
 # 更新中
 

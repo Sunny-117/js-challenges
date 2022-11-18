@@ -1,0 +1,45 @@
+.error,
+.success,
+.info {
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-top: 0;
+}
+
+.error {
+  background: #fde2e2;
+  color: #c45656;
+}
+
+.success {
+  background: #f0f9eb;
+  color: #529b2e;
+}
+
+.info {
+  color: #73767a;
+  background: #f4f4f5;
+}
+
+.success-reverse,
+.error-reverse,
+.info-reverse {
+  display: inline-block;
+  color: #FFF;
+  padding: 2px 5px;
+  border-radius: 5px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.success-reverse {
+  background: #67C23A;
+}
+
+.error-reverse {
+  background: #F56C6C;
+}
+
+.info-reverse {
+  background: #73767a;
+}
