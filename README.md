@@ -320,6 +320,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [实现 useQuery](https://github.com/Sunny-117/Front-end-handwritten-question/issues/187)
 - [实现useRequest](https://github.com/Sunny-117/Front-end-handwritten-question/issues/186)
 - [实现usePosition](https://github.com/Sunny-117/js-challenges/issues/327)
+- [实现useStorage](https://github.com/Sunny-117/js-challenges/issues/328)
 
 ## 组件设计题（Vue/React/JS均可）
 
