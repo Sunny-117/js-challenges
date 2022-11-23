@@ -319,6 +319,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [ts 实现 hooks: useInterval](https://github.com/Sunny-117/Front-end-handwritten-question/issues/188)
 - [实现 useQuery](https://github.com/Sunny-117/Front-end-handwritten-question/issues/187)
 - [实现useRequest](https://github.com/Sunny-117/Front-end-handwritten-question/issues/186)
+- [实现usePosition](https://github.com/Sunny-117/js-challenges/issues/327)
+- [实现useStorage](https://github.com/Sunny-117/js-challenges/issues/328)
 
 ## 组件设计题（Vue/React/JS均可）
 
@@ -391,6 +393,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## 数组
 - [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
+- [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/277)
 ## 链表
 - [删除排序链表中的重复元素](https://github.com/Sunny-117/js-challenges/issues/284)
 - [反转链表](https://github.com/Sunny-117/js-challenges/issues/285)
@@ -418,7 +421,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## 子序列问题
 
-- [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/305)
+- [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/326)
 - [最长连续递增序列](https://github.com/Sunny-117/js-challenges/issues/306)
 - [最长重复子数组](https://github.com/Sunny-117/js-challenges/issues/307)
 - [最长公共子序列](https://github.com/Sunny-117/js-challenges/issues/308)
