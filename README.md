@@ -70,6 +70,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [深拷贝](https://github.com/Sunny-117/Front-end-handwritten-question/issues/58)
 - [寄生组合式继承](https://github.com/Sunny-117/Front-end-handwritten-question/issues/59)
 - [发布订阅者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/60)
+- [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
 
 
 ## 实现 Promise （hot）
