@@ -453,11 +453,7 @@ TODO
 
 大家可以给仓库一些建议，本仓库资源来源于社区，也完全服务于社区 
 
-
 社区建议收集区：https://github.com/Sunny-117/js-challenges/discussions
-
-
-
 
 ## Show your support
 
