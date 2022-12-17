@@ -72,8 +72,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 - [发布订阅者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/60)
 - [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
 
-TODO
-
+TODOS
 ## 实现 Promise （hot）
 
 - [完整实现Promise A+](https://github.com/Sunny-117/Front-end-handwritten-question/issues/8)
@@ -453,7 +452,11 @@ TODO
 
 大家可以给仓库一些建议，本仓库资源来源于社区，也完全服务于社区 
 
+
 社区建议收集区：https://github.com/Sunny-117/js-challenges/discussions
+
+
+
 
 ## Show your support
 
