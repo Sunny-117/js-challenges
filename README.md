@@ -395,6 +395,8 @@ TODOS
 ## 数组
 - [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
 - [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/277)
+- [约瑟夫环](https://github.com/Sunny-117/js-challenges/issues/333)
+
 ## 链表
 - [删除排序链表中的重复元素](https://github.com/Sunny-117/js-challenges/issues/284)
 - [反转链表](https://github.com/Sunny-117/js-challenges/issues/285)
