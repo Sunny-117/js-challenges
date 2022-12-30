@@ -213,6 +213,19 @@ TODOS
 - [用代码实现把字符串转换成 base64 编码](https://github.com/Sunny-117/js-challenges/issues/266)
 - [设计 LRU 缓存结构](https://github.com/Sunny-117/js-challenges/issues/272)
 
+## ts 类型体操
+
+- [myPick](https://github.com/Sunny-117/js-challenges/issues/339)
+- [myReadonly](https://github.com/Sunny-117/js-challenges/issues/340)
+- [tuple to object](https://github.com/Sunny-117/js-challenges/issues/341)
+- [first of Array](https://github.com/Sunny-117/js-challenges/issues/342)
+- [tuple of Length](https://github.com/Sunny-117/js-challenges/issues/343)
+- [myExclude](https://github.com/Sunny-117/js-challenges/issues/344)
+- [awaited](https://github.com/Sunny-117/js-challenges/issues/345)
+- [if](https://github.com/Sunny-117/js-challenges/issues/346)
+- [concat](https://github.com/Sunny-117/js-challenges/issues/347)
+- [includes](https://github.com/Sunny-117/js-challenges/issues/348)
+
 ## 设计模式相关
 
 - [观察者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/62)
