@@ -101,7 +101,7 @@ Thank you to all the people who already contributed to js-challenges!
         <a href="https://github.com/lxy-Jason">
             <img src="https://avatars.githubusercontent.com/u/94227696?v=4" width="100;" alt="lxy-Jason"/>
             <br />
-            <sub><b>lxy-Jason</b></sub>
+            <sub><b>Lxy-Jason</b></sub>
         </a>
     </td>
     <td align="center">
