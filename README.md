@@ -51,6 +51,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Thank you to all the people who already contributed to js-challenges!
 
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 # 前端 JavaScript 手写题
 
