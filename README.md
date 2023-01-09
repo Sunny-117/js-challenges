@@ -51,8 +51,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Thank you to all the people who already contributed to js-challenges!
 
-<!-- ALL-CONTRIBUTORS-LIST: START - Do not remove or modify this section -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 # 前端 JavaScript 手写题
 
