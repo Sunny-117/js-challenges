@@ -138,8 +138,11 @@ Thank you to all the people who already contributed to js-challenges!
 主要用来解答 js-challenges 用户的疑问，js-challenges 的贡献，计划 js-challenges 的未来(建议)
 
 欢迎加我微信，我拉你进群：17560850561
-
-![](assets/2023-01-11-13-05-42.png)![](assets/2023-01-11-13-08-34.png)
+<center class="half">
+<img src="./assets/qun.png" width="200">
+<img src="./assets/me.png" width="200">
+</center>
+<!-- ![](assets/2023-01-11-13-05-42.png)![](assets/2023-01-11-13-08-34.png) -->
 
 # 前端 JavaScript 手写题
 
