@@ -542,6 +542,44 @@ TODOS
 - [验证回文字符串 Ⅱ](https://github.com/Sunny-117/js-challenges/issues/315)
 - [分割回文串（字节广告）](https://github.com/Sunny-117/js-challenges/issues/316)
 
+## 二分查找
+
+- [搜索旋转排序数组](https://github.com/Sunny-117/js-challenges/issues/351)
+- [x 的平方根](https://github.com/Sunny-117/js-challenges/issues/352)
+- [第一个错误的版本](https://github.com/Sunny-117/js-challenges/issues/353)
+- [有序数组中的单一元素](https://github.com/Sunny-117/js-challenges/issues/354)
+- [旋转数组的最小数字](https://github.com/Sunny-117/js-challenges/issues/355)
+- [0～n-1中缺失的数字](https://github.com/Sunny-117/js-challenges/issues/356)
+
+## 滑动窗口
+
+- [无重复字符的最长子串](https://github.com/Sunny-117/js-challenges/issues/357)
+- [字符串的排列](https://github.com/Sunny-117/js-challenges/issues/358)
+- [和为s的连续正数序列](https://github.com/Sunny-117/js-challenges/issues/359)
+
+## 双指针
+
+- [盛最多水的容器](https://github.com/Sunny-117/js-challenges/issues/360)
+- [三数之和](https://github.com/Sunny-117/js-challenges/issues/361)
+- [最接近的三数之和](https://github.com/Sunny-117/js-challenges/issues/362)
+- [接雨水](https://github.com/Sunny-117/js-challenges/issues/363)
+- [字符串相乘](https://github.com/Sunny-117/js-challenges/issues/364)
+- [合并两个有序数组](https://github.com/Sunny-117/js-challenges/issues/365)
+- [移动零](https://github.com/Sunny-117/js-challenges/issues/366)
+- [字符串相加](https://github.com/Sunny-117/js-challenges/issues/367)
+
+## 单调队列
+
+- [滑动窗口最大值](https://github.com/Sunny-117/js-challenges/issues/368)
+- [队列的最大值](https://github.com/Sunny-117/js-challenges/issues/369)
+
+## 位运算
+
+- [只出现一次的数字](https://github.com/Sunny-117/js-challenges/issues/370)
+- [二进制中1的个数](https://github.com/Sunny-117/js-challenges/issues/371)
+- [数组中数字出现的次数](https://github.com/Sunny-117/js-challenges/issues/372)
+- [不用加减乘除做加法](https://github.com/Sunny-117/js-challenges/issues/373)
+
 # 更新中
 
 ![](js.png)
