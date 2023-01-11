@@ -137,7 +137,7 @@ Thank you to all the people who already contributed to js-challenges!
 
 主要用来收集 js-challenges 用户的疑问，js-challenges 的贡献，计划 js-challenges 的未来(建议)
 
-
+或者加我微信，我拉你进群：17560850561
 ![](./weichat.jpg)
 
 # 前端 JavaScript 手写题
