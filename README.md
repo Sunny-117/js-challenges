@@ -103,6 +103,13 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/lzxjack">
+            <img src="https://avatars.githubusercontent.com/u/70835990?v=4" width="100;" alt="lzxjack"/>
+            <br />
+            <sub><b>飞鸟</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Ayu-1019">
             <img src="https://avatars.githubusercontent.com/u/76982270?v=4" width="100;" alt="Ayu-1019"/>
             <br />
