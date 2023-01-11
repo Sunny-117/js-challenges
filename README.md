@@ -133,6 +133,13 @@ Thank you to all the people who already contributed to js-challenges!
 </table>
 <!-- readme: collaborators,contributors -end -->
 
+# js-challenges 用户微信群
+
+主要用来收集 js-challenges 用户的疑问，js-challenges 的贡献，计划 js-challenges 的未来(建议)
+
+
+![](/weichat.jpg)
+
 # 前端 JavaScript 手写题
 
 ## JavaScript HOT 100 题
