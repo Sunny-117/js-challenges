@@ -141,7 +141,7 @@ Thank you to all the people who already contributed to js-challenges!
 
 ![](assets/2023-01-11-13-05-42.png)
 
-![](assets/2023-01-11-13-06-41.png)
+![](assets/2023-01-11-13-08-34.png)
 
 # 前端 JavaScript 手写题
 
