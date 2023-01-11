@@ -81,20 +81,27 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/lhp96">
+            <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
+            <br />
+            <sub><b>HuiPeng Lu</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/lechang-zhang">
             <img src="https://avatars.githubusercontent.com/u/63288975?v=4" width="100;" alt="lechang-zhang"/>
             <br />
             <sub><b>Lechang Zhang</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/LevyEvans-s">
             <img src="https://avatars.githubusercontent.com/u/74438804?v=4" width="100;" alt="LevyEvans-s"/>
             <br />
             <sub><b>SakadaGintoki</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/lxy-Jason">
             <img src="https://avatars.githubusercontent.com/u/94227696?v=4" width="100;" alt="lxy-Jason"/>
@@ -129,7 +136,8 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>朱志康</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/qiuye-zhou">
             <img src="https://avatars.githubusercontent.com/u/75529722?v=4" width="100;" alt="qiuye-zhou"/>
