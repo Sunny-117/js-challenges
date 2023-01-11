@@ -135,7 +135,7 @@ Thank you to all the people who already contributed to js-challenges!
 
 # js-challenges 用户微信群
 
-主要用来收集 js-challenges 用户的疑问，js-challenges 的贡献，计划 js-challenges 的未来(建议)
+主要用来解答 js-challenges 用户的疑问，js-challenges 的贡献，计划 js-challenges 的未来(建议)
 
 欢迎加我微信，我拉你进群：17560850561
 
