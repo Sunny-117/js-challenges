@@ -139,8 +139,8 @@ Thank you to all the people who already contributed to js-challenges!
 
 欢迎加我微信，我拉你进群：17560850561
 <center class="half">
-<img src="./assets/qun.png" width="200">
-<img src="./assets/me.png" width="200">
+<img src="./assets/qun.png" width="100">
+<img src="./assets/me.png" width="100">
 </center>
 <!-- ![](assets/2023-01-11-13-05-42.png)![](assets/2023-01-11-13-08-34.png) -->
 
