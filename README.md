@@ -139,9 +139,7 @@ Thank you to all the people who already contributed to js-challenges!
 
 欢迎加我微信，我拉你进群：17560850561
 
-![](assets/2023-01-11-13-05-42.png)
-
-![](assets/2023-01-11-13-08-34.png)
+![](assets/2023-01-11-13-05-42.png)![](assets/2023-01-11-13-08-34.png)
 
 # 前端 JavaScript 手写题
 
