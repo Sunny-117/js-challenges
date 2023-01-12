@@ -409,7 +409,8 @@ TODOS
 - [检验字符串首尾是否含有数字](https://github.com/Sunny-117/Front-end-handwritten-question/issues/51)
 - [去除字符串空格](https://github.com/Sunny-117/Front-end-handwritten-question/issues/52)
 - [去除字符串中的字母](https://github.com/Sunny-117/Front-end-handwritten-question/issues/53)
-- [正则 驼峰转换](https://github.com/Sunny-117/Front-end-handwritten-question/issues/54)
+- [正则：短横线 => 驼峰](https://github.com/Sunny-117/Front-end-handwritten-question/issues/54)
+- [正则：驼峰 => 短横线](https://github.com/Sunny-117/js-challenges/issues/377)
 - [对象 key 的驼峰转下划线](https://github.com/Sunny-117/Front-end-handwritten-question/issues/55)
 - [判断字符串中是否存在连续的三个数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/56)
 - [((2+3)+(3*4))+2---->['(2 + 3)+(3 * 4)', '2 + 3', '3 \* 4'] ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/57)
@@ -468,7 +469,7 @@ TODOS
 - [使用 div 和 css 实现一个圆形，红色部分站 60%，绿色 40%](https://github.com/Sunny-117/js-challenges/issues/231)
 - [现在有一个进度条，进度条中间有一串文字，当我的进度条覆盖了文字之后，文字要去进度条反色，怎么实现？](https://github.com/Sunny-117/js-challenges/issues/232)
 - [shadowDOM 实现 css 隔离](https://github.com/Sunny-117/js-challenges/issues/233)
-- [两烂布局](https://github.com/Sunny-117/js-challenges/issues/234)
+- [两栏布局](https://github.com/Sunny-117/js-challenges/issues/234)
 - [宽高自适应正方形](https://github.com/Sunny-117/js-challenges/issues/235)
 - [1px 问题](https://github.com/Sunny-117/js-challenges/issues/236)
 - [实现 筛子 ](https://github.com/Sunny-117/js-challenges/issues/237)
@@ -476,6 +477,7 @@ TODOS
 - [三栏布局移动优先设计](https://github.com/Sunny-117/js-challenges/issues/239)
 - [css 实现一个自适应搜索框](https://github.com/Sunny-117/js-challenges/issues/240)
 - [css 书卡布局](https://github.com/Sunny-117/js-challenges/issues/241)
+- [实现宽高比例固定的 div](https://github.com/Sunny-117/js-challenges/issues/378)
 
 ## JS 实现基本数据结构
 
