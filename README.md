@@ -324,6 +324,7 @@ TODOS
 - [阿拉伯数字专汉字(偏难)](https://github.com/Sunny-117/js-challenges/issues/265)
 - [用代码实现把字符串转换成 base64 编码](https://github.com/Sunny-117/js-challenges/issues/266)
 - [设计 LRU 缓存结构](https://github.com/Sunny-117/js-challenges/issues/272)
+- [实现一个 LazyMan ](https://github.com/Sunny-117/js-challenges/issues/382)
 
 ## ts 类型体操
 
@@ -358,6 +359,7 @@ TODOS
 - [对象字符串转化成树形结构](https://github.com/Sunny-117/Front-end-handwritten-question/issues/45)
 - [判断有无符合路径和 -> 打印所有路径](https://github.com/Sunny-117/Front-end-handwritten-question/issues/46)
 - [获取树结构中的 name：getName](https://github.com/Sunny-117/Front-end-handwritten-question/issues/47)
+- []()
 
 ## 实现 JS 原生方法
 
