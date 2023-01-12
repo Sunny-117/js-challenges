@@ -24,9 +24,10 @@
 
 👤 **sunny-117**
 
-- Website: https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf
+- Website: https://sunny-117.github.io/blog/
 - Twitter: [@zhiqiangfu6sun](https://twitter.com/zhiqiangfu6sun)
 - Github: [@sunny-117](https://github.com/sunny-117)
+- personal share: [个人分享](https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0)
 
 # CONTENT
 
