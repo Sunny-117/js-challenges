@@ -561,6 +561,8 @@ TODOS
 - [二叉树的最大深度](https://github.com/Sunny-117/js-challenges/issues/302)
 - [二叉树的前序遍历](https://github.com/Sunny-117/js-challenges/issues/303)
 - [二叉树的完全性检验](https://github.com/Sunny-117/js-challenges/issues/304)
+- [序列化二叉树](https://github.com/Sunny-117/js-challenges/issues/385)
+- [二叉树的最近公共祖先](https://github.com/Sunny-117/js-challenges/issues/384)
 
 ## 子序列问题
 
