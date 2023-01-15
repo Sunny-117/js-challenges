@@ -325,6 +325,7 @@ TODOS
 - [用代码实现把字符串转换成 base64 编码](https://github.com/Sunny-117/js-challenges/issues/266)
 - [设计 LRU 缓存结构](https://github.com/Sunny-117/js-challenges/issues/272)
 - [实现一个 LazyMan ](https://github.com/Sunny-117/js-challenges/issues/382)
+- [标签整理分类题](https://github.com/Sunny-117/js-challenges/issues/391)
 
 ## ts 类型体操
 
@@ -461,6 +462,7 @@ TODOS
 
 ## Vue原理题
 - [手写v-model简易版](https://github.com/Sunny-117/js-challenges/issues/388)
+- [手写vue2响应式](https://github.com/Sunny-117/js-challenges/issues/390)
 
 ## HTML CSS 手写题
 
@@ -484,6 +486,7 @@ TODOS
 - [css 实现一个自适应搜索框](https://github.com/Sunny-117/js-challenges/issues/240)
 - [css 书卡布局](https://github.com/Sunny-117/js-challenges/issues/241)
 - [实现宽高比例固定的 div](https://github.com/Sunny-117/js-challenges/issues/378)
+- [实现一个五点骰子](https://github.com/Sunny-117/js-challenges/issues/392)
 
 ## JS 实现基本数据结构
 
