@@ -459,6 +459,9 @@ TODOS
 - [选项卡](https://github.com/Sunny-117/Front-end-handwritten-question/issues/180)
 - [拖拽](https://github.com/Sunny-117/Front-end-handwritten-question/issues/179)
 
+## Vue原理题
+- [手写v-model简易版](https://github.com/Sunny-117/js-challenges/issues/388)
+
 ## HTML CSS 手写题
 
 - [实现圆形环状进度条](https://github.com/Sunny-117/Front-end-handwritten-question/issues/203)
