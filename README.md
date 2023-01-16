@@ -68,6 +68,13 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/DiF1202">
+            <img src="https://avatars.githubusercontent.com/u/79006848?v=4" width="100;" alt="DiF1202"/>
+            <br />
+            <sub><b>DiF1202</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/lzxjack">
             <img src="https://avatars.githubusercontent.com/u/70835990?v=4" width="100;" alt="lzxjack"/>
             <br />
@@ -86,13 +93,6 @@ Thank you to all the people who already contributed to js-challenges!
             <img src="https://avatars.githubusercontent.com/u/54239670?v=4" width="100;" alt="object-kaz"/>
             <br />
             <sub><b>Kaz</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/DiF1202">
-            <img src="https://avatars.githubusercontent.com/u/79006848?v=4" width="100;" alt="DiF1202"/>
-            <br />
-            <sub><b>DiF1202</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -118,6 +118,13 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hannah-bingo">
+            <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
+            <br />
+            <sub><b>Hannah</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/LevyEvans-s">
             <img src="https://avatars.githubusercontent.com/u/74438804?v=4" width="100;" alt="LevyEvans-s"/>
             <br />
@@ -130,15 +137,15 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>Lxy-Jason</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Ayu-1019">
             <img src="https://avatars.githubusercontent.com/u/76982270?v=4" width="100;" alt="Ayu-1019"/>
             <br />
             <sub><b>Richard Zhang</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/CwRv07">
             <img src="https://avatars.githubusercontent.com/u/71303732?v=4" width="100;" alt="CwRv07"/>
