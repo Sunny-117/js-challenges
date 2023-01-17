@@ -173,7 +173,15 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>秋叶ゞ</b></sub>
         </a>
-    </td></tr>
+    </td>
+       <td align="center">
+        <a href="https://github.com/jlx2002">
+            <img src="https://avatars.githubusercontent.com/u/83263333?s=400&u=2f48fe01fd5f02e2683e7e76e1c0f98bdded40a4&v=4" width="100;" alt="acaax"/>
+            <br />
+            <sub><b>Acaax</b></sub>
+        </a>
+    </td>
+    </tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
 
@@ -471,6 +479,7 @@ TODOS
 - [实现 useRequest](https://github.com/Sunny-117/Front-end-handwritten-question/issues/186)
 - [实现 usePosition](https://github.com/Sunny-117/js-challenges/issues/327)
 - [实现 useStorage](https://github.com/Sunny-117/js-challenges/issues/328)
+- [实现 防抖收藏 useFavorite ](https://github.com/Sunny-117/js-challenges/issues/394)
 
 ## 组件设计题（Vue/React/JS 均可）
 
@@ -491,6 +500,9 @@ TODOS
 ## Vue原理题
 - [手写v-model简易版](https://github.com/Sunny-117/js-challenges/issues/388)
 - [手写vue2响应式](https://github.com/Sunny-117/js-challenges/issues/390)
+- [手写vue3 proxy实现数据响应式](https://github.com/Sunny-117/js-challenges/issues/397)
+- [手写v-bind简易版](https://github.com/Sunny-117/js-challenges/issues/396)
+- [手写v-html 和v-text](https://github.com/Sunny-117/js-challenges/issues/395) 
 
 ## HTML CSS 手写题
 
