@@ -97,6 +97,13 @@ Thank you to all the people who already contributed to js-challenges!
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/dossweet">
+            <img src="https://avatars.githubusercontent.com/u/38655923?v=4" width="100;" alt="dossweet"/>
+            <br />
+            <sub><b>DoubleSweet</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/lhp96">
             <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
             <br />
@@ -130,15 +137,15 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>SakadaGintoki</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lxy-Jason">
             <img src="https://avatars.githubusercontent.com/u/94227696?v=4" width="100;" alt="lxy-Jason"/>
             <br />
             <sub><b>Lxy-Jason</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Ayu-1019">
             <img src="https://avatars.githubusercontent.com/u/76982270?v=4" width="100;" alt="Ayu-1019"/>
