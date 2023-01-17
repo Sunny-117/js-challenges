@@ -623,6 +623,11 @@ TODOS
 - [滑动窗口最大值](https://github.com/Sunny-117/js-challenges/issues/368)
 - [队列的最大值](https://github.com/Sunny-117/js-challenges/issues/369)
 
+## 单调栈
+- [每日温度](https://github.com/Sunny-117/js-challenges/issues/398)
+- [下一个更大的元素I](https://github.com/Sunny-117/js-challenges/issues/399)
+- [下一个更大的元素II](https://github.com/Sunny-117/js-challenges/issues/400)
+
 ## 位运算
 
 - [只出现一次的数字](https://github.com/Sunny-117/js-challenges/issues/370)
