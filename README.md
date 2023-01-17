@@ -173,15 +173,7 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>秋叶ゞ</b></sub>
         </a>
-    </td>
-       <td align="center">
-        <a href="https://github.com/jlx2002">
-            <img src="https://avatars.githubusercontent.com/u/83263333?s=400&u=2f48fe01fd5f02e2683e7e76e1c0f98bdded40a4&v=4" width="100;" alt="acaax"/>
-            <br />
-            <sub><b>Acaax</b></sub>
-        </a>
-    </td>
-    </tr>
+    </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
 
