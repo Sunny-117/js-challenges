@@ -212,6 +212,7 @@ TODOS
 - [阿拉伯数字专汉字(偏难)](https://github.com/Sunny-117/js-challenges/issues/265)
 - [用代码实现把字符串转换成 base64 编码](https://github.com/Sunny-117/js-challenges/issues/266)
 - [设计 LRU 缓存结构](https://github.com/Sunny-117/js-challenges/issues/272)
+- [ES5+ES6继承](https://github.com/Sunny-117/js-challenges/issues/403)
 
 ## ts 类型体操
 
