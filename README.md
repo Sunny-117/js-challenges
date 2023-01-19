@@ -686,7 +686,9 @@ TODOS
 
 整理不易，如果您觉得本项目对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，^_^，谢谢！
 
-支付宝：<img src="./alipay.jpg" width="100"> 微信：<img src='./weixin.png' width="100">
+
+<img src="./alipay.jpg" width="200">   <img src='./weixin.png' width="200">
+
 
 
 
