@@ -558,6 +558,7 @@ TODOS
 - [旋转图像](https://github.com/Sunny-117/js-challenges/issues/318)
 - [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
 - [矩形重叠](https://github.com/Sunny-117/js-challenges/issues/321)
+- [矩阵乘法](https://github.com/Sunny-117/js-challenges/issues/409)
 
 ## 数组
 
