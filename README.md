@@ -526,6 +526,7 @@ TODOS
 - [css 书卡布局](https://github.com/Sunny-117/js-challenges/issues/241)
 - [实现宽高比例固定的 div](https://github.com/Sunny-117/js-challenges/issues/378)
 - [实现一个五点骰子](https://github.com/Sunny-117/js-challenges/issues/392)
+- [实现圣杯布局](https://github.com/Sunny-117/js-challenges/issues/406)
 
 ## JS 实现基本数据结构
 
@@ -557,6 +558,7 @@ TODOS
 - [旋转图像](https://github.com/Sunny-117/js-challenges/issues/318)
 - [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
 - [矩形重叠](https://github.com/Sunny-117/js-challenges/issues/321)
+- [矩阵乘法](https://github.com/Sunny-117/js-challenges/issues/409)
 
 ## 数组
 
