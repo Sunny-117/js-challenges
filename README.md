@@ -361,7 +361,6 @@ TODOS
 - [设计 LRU 缓存结构](https://github.com/Sunny-117/js-challenges/issues/272)
 - [实现一个 LazyMan ](https://github.com/Sunny-117/js-challenges/issues/382)
 - [标签整理分类题](https://github.com/Sunny-117/js-challenges/issues/391)
-- [大数相加（不能使用BigInt）](https://github.com/Sunny-117/js-challenges/issues/405)
 
 ## ts 类型体操
 
@@ -527,6 +526,7 @@ TODOS
 - [css 书卡布局](https://github.com/Sunny-117/js-challenges/issues/241)
 - [实现宽高比例固定的 div](https://github.com/Sunny-117/js-challenges/issues/378)
 - [实现一个五点骰子](https://github.com/Sunny-117/js-challenges/issues/392)
+- [实现圣杯布局](https://github.com/Sunny-117/js-challenges/issues/406)
 
 ## JS 实现基本数据结构
 
