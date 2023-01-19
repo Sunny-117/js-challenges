@@ -680,9 +680,11 @@ TODOS
 
 社区建议收集区：https://github.com/Sunny-117/js-challenges/discussions
 
-## Show your support
+## 关于捐赠
 
-Give a ⭐️ if this project helped you!
+如果您觉得本项目对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，^_^，谢谢！
+
+
 
 ## 📝 License
 
