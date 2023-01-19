@@ -24,9 +24,10 @@
 
 👤 **sunny-117**
 
-- Website: https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf
+- Website: https://sunny-117.github.io/blog/
 - Twitter: [@zhiqiangfu6sun](https://twitter.com/zhiqiangfu6sun)
 - Github: [@sunny-117](https://github.com/sunny-117)
+- personal share: [个人分享](https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0)
 
 # CONTENT
 
@@ -46,7 +47,146 @@
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Sunny-117/js-challenges/issues). You can also take a look at the [contributing guide](https://github.com/Sunny-117/js-challenges#%E8%B4%A1%E7%8C%AE%E6%AD%A4%E9%A1%B9%E7%9B%AE).
 
-![](./contribute.png)
+
+Thank you to all the people who already contributed to js-challenges!
+
+<!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Sunny-117">
+            <img src="https://avatars.githubusercontent.com/u/73089592?v=4" width="100;" alt="Sunny-117"/>
+            <br />
+            <sub><b>Sunny-117</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Nasuke">
+            <img src="https://avatars.githubusercontent.com/u/78846539?v=4" width="100;" alt="Nasuke"/>
+            <br />
+            <sub><b>Nasuke</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/DiF1202">
+            <img src="https://avatars.githubusercontent.com/u/79006848?v=4" width="100;" alt="DiF1202"/>
+            <br />
+            <sub><b>DiF1202</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lzxjack">
+            <img src="https://avatars.githubusercontent.com/u/70835990?v=4" width="100;" alt="lzxjack"/>
+            <br />
+            <sub><b>飞鸟</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/FailurMan">
+            <img src="https://avatars.githubusercontent.com/u/94963737?v=4" width="100;" alt="FailurMan"/>
+            <br />
+            <sub><b>FailurMan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/object-kaz">
+            <img src="https://avatars.githubusercontent.com/u/54239670?v=4" width="100;" alt="object-kaz"/>
+            <br />
+            <sub><b>Kaz</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/dossweet">
+            <img src="https://avatars.githubusercontent.com/u/38655923?v=4" width="100;" alt="dossweet"/>
+            <br />
+            <sub><b>DoubleSweet</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lhp96">
+            <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
+            <br />
+            <sub><b>HuiPeng Lu</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ChelesteWang">
+            <img src="https://avatars.githubusercontent.com/u/40495740?v=4" width="100;" alt="ChelesteWang"/>
+            <br />
+            <sub><b>Xinyuan Wang</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lechang-zhang">
+            <img src="https://avatars.githubusercontent.com/u/63288975?v=4" width="100;" alt="lechang-zhang"/>
+            <br />
+            <sub><b>Lechang Zhang</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hannah-bingo">
+            <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
+            <br />
+            <sub><b>Hannah</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LevyEvans-s">
+            <img src="https://avatars.githubusercontent.com/u/74438804?v=4" width="100;" alt="LevyEvans-s"/>
+            <br />
+            <sub><b>SakadaGintoki</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/lxy-Jason">
+            <img src="https://avatars.githubusercontent.com/u/94227696?v=4" width="100;" alt="lxy-Jason"/>
+            <br />
+            <sub><b>Lxy-Jason</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Ayu-1019">
+            <img src="https://avatars.githubusercontent.com/u/76982270?v=4" width="100;" alt="Ayu-1019"/>
+            <br />
+            <sub><b>Richard Zhang</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/CwRv07">
+            <img src="https://avatars.githubusercontent.com/u/71303732?v=4" width="100;" alt="CwRv07"/>
+            <br />
+            <sub><b>卷心菜汪</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ZZK520">
+            <img src="https://avatars.githubusercontent.com/u/55746960?v=4" width="100;" alt="ZZK520"/>
+            <br />
+            <sub><b>朱志康</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/qiuye-zhou">
+            <img src="https://avatars.githubusercontent.com/u/75529722?v=4" width="100;" alt="qiuye-zhou"/>
+            <br />
+            <sub><b>秋叶ゞ</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: collaborators,contributors -end -->
+
+# js-challenges 用户微信群
+
+主要用来解答 js-challenges 用户的疑问，js-challenges 的贡献，计划 js-challenges 的未来(建议)
+
+欢迎加我微信，我拉你进群：17560850561
+<center class="half">
+<img src="./assets/qun.png" width="100">
+<img src="./assets/me.png" width="100">
+</center>
+<!-- ![](assets/2023-01-11-13-05-42.png)![](assets/2023-01-11-13-08-34.png) -->
 
 # 前端 JavaScript 手写题
 
@@ -212,7 +352,8 @@ TODOS
 - [阿拉伯数字专汉字(偏难)](https://github.com/Sunny-117/js-challenges/issues/265)
 - [用代码实现把字符串转换成 base64 编码](https://github.com/Sunny-117/js-challenges/issues/266)
 - [设计 LRU 缓存结构](https://github.com/Sunny-117/js-challenges/issues/272)
-- [ES5+ES6继承](https://github.com/Sunny-117/js-challenges/issues/403)
+- [实现一个 LazyMan ](https://github.com/Sunny-117/js-challenges/issues/382)
+- [标签整理分类题](https://github.com/Sunny-117/js-challenges/issues/391)
 
 ## ts 类型体操
 
@@ -226,6 +367,7 @@ TODOS
 - [if](https://github.com/Sunny-117/js-challenges/issues/346)
 - [concat](https://github.com/Sunny-117/js-challenges/issues/347)
 - [includes](https://github.com/Sunny-117/js-challenges/issues/348)
+- [Trim](https://github.com/Sunny-117/js-challenges/issues/375)
 
 ## 设计模式相关
 
@@ -246,6 +388,7 @@ TODOS
 - [对象字符串转化成树形结构](https://github.com/Sunny-117/Front-end-handwritten-question/issues/45)
 - [判断有无符合路径和 -> 打印所有路径](https://github.com/Sunny-117/Front-end-handwritten-question/issues/46)
 - [获取树结构中的 name：getName](https://github.com/Sunny-117/Front-end-handwritten-question/issues/47)
+- []()
 
 ## 实现 JS 原生方法
 
@@ -298,7 +441,8 @@ TODOS
 - [检验字符串首尾是否含有数字](https://github.com/Sunny-117/Front-end-handwritten-question/issues/51)
 - [去除字符串空格](https://github.com/Sunny-117/Front-end-handwritten-question/issues/52)
 - [去除字符串中的字母](https://github.com/Sunny-117/Front-end-handwritten-question/issues/53)
-- [正则 驼峰转换](https://github.com/Sunny-117/Front-end-handwritten-question/issues/54)
+- [正则：短横线 => 驼峰](https://github.com/Sunny-117/Front-end-handwritten-question/issues/54)
+- [正则：驼峰 => 短横线](https://github.com/Sunny-117/js-challenges/issues/377)
 - [对象 key 的驼峰转下划线](https://github.com/Sunny-117/Front-end-handwritten-question/issues/55)
 - [判断字符串中是否存在连续的三个数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/56)
 - [((2+3)+(3*4))+2---->['(2 + 3)+(3 * 4)', '2 + 3', '3 \* 4'] ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/57)
@@ -327,6 +471,7 @@ TODOS
 - [实现 useRequest](https://github.com/Sunny-117/Front-end-handwritten-question/issues/186)
 - [实现 usePosition](https://github.com/Sunny-117/js-challenges/issues/327)
 - [实现 useStorage](https://github.com/Sunny-117/js-challenges/issues/328)
+- [实现 防抖收藏 useFavorite ](https://github.com/Sunny-117/js-challenges/issues/394)
 
 ## 组件设计题（Vue/React/JS 均可）
 
@@ -344,6 +489,13 @@ TODOS
 - [选项卡](https://github.com/Sunny-117/Front-end-handwritten-question/issues/180)
 - [拖拽](https://github.com/Sunny-117/Front-end-handwritten-question/issues/179)
 
+## Vue原理题
+- [手写v-model简易版](https://github.com/Sunny-117/js-challenges/issues/388)
+- [手写vue2响应式](https://github.com/Sunny-117/js-challenges/issues/390)
+- [手写vue3 proxy实现数据响应式](https://github.com/Sunny-117/js-challenges/issues/397)
+- [手写v-bind简易版](https://github.com/Sunny-117/js-challenges/issues/396)
+- [手写v-html 和v-text](https://github.com/Sunny-117/js-challenges/issues/395) 
+
 ## HTML CSS 手写题
 
 - [实现圆形环状进度条](https://github.com/Sunny-117/Front-end-handwritten-question/issues/203)
@@ -357,7 +509,7 @@ TODOS
 - [使用 div 和 css 实现一个圆形，红色部分站 60%，绿色 40%](https://github.com/Sunny-117/js-challenges/issues/231)
 - [现在有一个进度条，进度条中间有一串文字，当我的进度条覆盖了文字之后，文字要去进度条反色，怎么实现？](https://github.com/Sunny-117/js-challenges/issues/232)
 - [shadowDOM 实现 css 隔离](https://github.com/Sunny-117/js-challenges/issues/233)
-- [两烂布局](https://github.com/Sunny-117/js-challenges/issues/234)
+- [两栏布局](https://github.com/Sunny-117/js-challenges/issues/234)
 - [宽高自适应正方形](https://github.com/Sunny-117/js-challenges/issues/235)
 - [1px 问题](https://github.com/Sunny-117/js-challenges/issues/236)
 - [实现 筛子 ](https://github.com/Sunny-117/js-challenges/issues/237)
@@ -365,6 +517,8 @@ TODOS
 - [三栏布局移动优先设计](https://github.com/Sunny-117/js-challenges/issues/239)
 - [css 实现一个自适应搜索框](https://github.com/Sunny-117/js-challenges/issues/240)
 - [css 书卡布局](https://github.com/Sunny-117/js-challenges/issues/241)
+- [实现宽高比例固定的 div](https://github.com/Sunny-117/js-challenges/issues/378)
+- [实现一个五点骰子](https://github.com/Sunny-117/js-challenges/issues/392)
 
 ## JS 实现基本数据结构
 
@@ -448,6 +602,49 @@ TODOS
 - [验证回文串](https://github.com/Sunny-117/js-challenges/issues/314)
 - [验证回文字符串 Ⅱ](https://github.com/Sunny-117/js-challenges/issues/315)
 - [分割回文串（字节广告）](https://github.com/Sunny-117/js-challenges/issues/316)
+
+## 二分查找
+
+- [搜索旋转排序数组](https://github.com/Sunny-117/js-challenges/issues/351)
+- [x 的平方根](https://github.com/Sunny-117/js-challenges/issues/352)
+- [第一个错误的版本](https://github.com/Sunny-117/js-challenges/issues/353)
+- [有序数组中的单一元素](https://github.com/Sunny-117/js-challenges/issues/354)
+- [旋转数组的最小数字](https://github.com/Sunny-117/js-challenges/issues/355)
+- [0～n-1中缺失的数字](https://github.com/Sunny-117/js-challenges/issues/356)
+
+## 滑动窗口
+
+- [无重复字符的最长子串](https://github.com/Sunny-117/js-challenges/issues/357)
+- [字符串的排列](https://github.com/Sunny-117/js-challenges/issues/358)
+- [和为s的连续正数序列](https://github.com/Sunny-117/js-challenges/issues/359)
+
+## 双指针
+
+- [盛最多水的容器](https://github.com/Sunny-117/js-challenges/issues/360)
+- [三数之和](https://github.com/Sunny-117/js-challenges/issues/361)
+- [最接近的三数之和](https://github.com/Sunny-117/js-challenges/issues/362)
+- [接雨水](https://github.com/Sunny-117/js-challenges/issues/363)
+- [字符串相乘](https://github.com/Sunny-117/js-challenges/issues/364)
+- [合并两个有序数组](https://github.com/Sunny-117/js-challenges/issues/365)
+- [移动零](https://github.com/Sunny-117/js-challenges/issues/366)
+- [字符串相加](https://github.com/Sunny-117/js-challenges/issues/367)
+
+## 单调队列
+
+- [滑动窗口最大值](https://github.com/Sunny-117/js-challenges/issues/368)
+- [队列的最大值](https://github.com/Sunny-117/js-challenges/issues/369)
+
+## 单调栈
+- [每日温度](https://github.com/Sunny-117/js-challenges/issues/398)
+- [下一个更大的元素I](https://github.com/Sunny-117/js-challenges/issues/399)
+- [下一个更大的元素II](https://github.com/Sunny-117/js-challenges/issues/400)
+
+## 位运算
+
+- [只出现一次的数字](https://github.com/Sunny-117/js-challenges/issues/370)
+- [二进制中1的个数](https://github.com/Sunny-117/js-challenges/issues/371)
+- [数组中数字出现的次数](https://github.com/Sunny-117/js-challenges/issues/372)
+- [不用加减乘除做加法](https://github.com/Sunny-117/js-challenges/issues/373)
 
 # 更新中
 
