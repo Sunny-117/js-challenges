@@ -646,6 +646,9 @@ TODOS
 - [下一个更大的元素I](https://github.com/Sunny-117/js-challenges/issues/399)
 - [下一个更大的元素II](https://github.com/Sunny-117/js-challenges/issues/400)
 
+## 贪心
+- [用最少数量的箭引爆气球](https://github.com/Sunny-117/js-challenges/issues/411)
+
 ## 位运算
 
 - [只出现一次的数字](https://github.com/Sunny-117/js-challenges/issues/370)
