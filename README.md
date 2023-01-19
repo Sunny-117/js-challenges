@@ -75,6 +75,13 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hannah-bingo">
+            <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
+            <br />
+            <sub><b>Hannah</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/lzxjack">
             <img src="https://avatars.githubusercontent.com/u/70835990?v=4" width="100;" alt="lzxjack"/>
             <br />
@@ -87,15 +94,22 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>FailurMan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/object-kaz">
             <img src="https://avatars.githubusercontent.com/u/54239670?v=4" width="100;" alt="object-kaz"/>
             <br />
             <sub><b>Kaz</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jlx2002">
+            <img src="https://avatars.githubusercontent.com/u/83263333?v=4" width="100;" alt="jlx2002"/>
+            <br />
+            <sub><b>Acaax</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/dossweet">
             <img src="https://avatars.githubusercontent.com/u/38655923?v=4" width="100;" alt="dossweet"/>
@@ -123,22 +137,15 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>Lechang Zhang</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hannah-bingo">
-            <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
-            <br />
-            <sub><b>Hannah</b></sub>
-        </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/LevyEvans-s">
             <img src="https://avatars.githubusercontent.com/u/74438804?v=4" width="100;" alt="LevyEvans-s"/>
             <br />
             <sub><b>SakadaGintoki</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/lxy-Jason">
             <img src="https://avatars.githubusercontent.com/u/94227696?v=4" width="100;" alt="lxy-Jason"/>
