@@ -125,20 +125,27 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Pcjmy">
+            <img src="https://avatars.githubusercontent.com/u/73071671?v=4" width="100;" alt="Pcjmy"/>
+            <br />
+            <sub><b>Pcjmy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ChelesteWang">
             <img src="https://avatars.githubusercontent.com/u/40495740?v=4" width="100;" alt="ChelesteWang"/>
             <br />
             <sub><b>Xinyuan Wang</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lechang-zhang">
             <img src="https://avatars.githubusercontent.com/u/63288975?v=4" width="100;" alt="lechang-zhang"/>
             <br />
             <sub><b>Lechang Zhang</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/LevyEvans-s">
             <img src="https://avatars.githubusercontent.com/u/74438804?v=4" width="100;" alt="LevyEvans-s"/>
@@ -173,7 +180,8 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>朱志康</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/qiuye-zhou">
             <img src="https://avatars.githubusercontent.com/u/75529722?v=4" width="100;" alt="qiuye-zhou"/>
@@ -672,9 +680,17 @@ TODOS
 
 社区建议收集区：https://github.com/Sunny-117/js-challenges/discussions
 
-## Show your support
+## 关于捐赠
 
-Give a ⭐️ if this project helped you!
+本项目会持续更新
+
+整理不易，如果您觉得本项目对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，^_^，谢谢！
+
+
+<img src="./alipay.jpg" width="200">   <img src='./weixin.png' width="200">
+
+
+
 
 ## 📝 License
 
