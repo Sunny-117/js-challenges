@@ -369,6 +369,7 @@ TODOS
 - [设计 LRU 缓存结构](https://github.com/Sunny-117/js-challenges/issues/272)
 - [实现一个 LazyMan ](https://github.com/Sunny-117/js-challenges/issues/382)
 - [标签整理分类题](https://github.com/Sunny-117/js-challenges/issues/391)
+- [求集合单词组合起来的不同结果，集合中的单词不重复，每个结果包含所有单词](https://github.com/Sunny-117/js-challenges/issues/418)
 
 ## ts 类型体操
 
@@ -403,7 +404,6 @@ TODOS
 - [对象字符串转化成树形结构](https://github.com/Sunny-117/Front-end-handwritten-question/issues/45)
 - [判断有无符合路径和 -> 打印所有路径](https://github.com/Sunny-117/Front-end-handwritten-question/issues/46)
 - [获取树结构中的 name：getName](https://github.com/Sunny-117/Front-end-handwritten-question/issues/47)
-- []()
 
 ## 实现 JS 原生方法
 
@@ -616,6 +616,7 @@ TODOS
 ## 回文专题
 
 - [最长回文子串](https://github.com/Sunny-117/js-challenges/issues/312)
+- [最长回文子序列](https://github.com/Sunny-117/js-challenges/issues/419)
 - [回文数](https://github.com/Sunny-117/js-challenges/issues/313)
 - [验证回文串](https://github.com/Sunny-117/js-challenges/issues/314)
 - [验证回文字符串 Ⅱ](https://github.com/Sunny-117/js-challenges/issues/315)
