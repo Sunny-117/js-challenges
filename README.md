@@ -75,6 +75,13 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Pcjmy">
+            <img src="https://avatars.githubusercontent.com/u/73071671?v=4" width="100;" alt="Pcjmy"/>
+            <br />
+            <sub><b>Pcjmy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/hannah-bingo">
             <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
             <br />
@@ -87,15 +94,15 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>飞鸟</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/FailurMan">
             <img src="https://avatars.githubusercontent.com/u/94963737?v=4" width="100;" alt="FailurMan"/>
             <br />
             <sub><b>FailurMan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/object-kaz">
             <img src="https://avatars.githubusercontent.com/u/54239670?v=4" width="100;" alt="object-kaz"/>
@@ -122,13 +129,6 @@ Thank you to all the people who already contributed to js-challenges!
             <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
             <br />
             <sub><b>HuiPeng Lu</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Pcjmy">
-            <img src="https://avatars.githubusercontent.com/u/73071671?v=4" width="100;" alt="Pcjmy"/>
-            <br />
-            <sub><b>Pcjmy</b></sub>
         </a>
     </td>
     <td align="center">
