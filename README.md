@@ -602,6 +602,7 @@ TODOS
 - [二叉树的完全性检验](https://github.com/Sunny-117/js-challenges/issues/304)
 - [序列化二叉树](https://github.com/Sunny-117/js-challenges/issues/385)
 - [二叉树的最近公共祖先](https://github.com/Sunny-117/js-challenges/issues/384)
+- [翻转二叉树](https://github.com/Sunny-117/js-challenges/issues/414)
 
 ## 子序列问题
 
@@ -657,6 +658,9 @@ TODOS
 - [每日温度](https://github.com/Sunny-117/js-challenges/issues/398)
 - [下一个更大的元素I](https://github.com/Sunny-117/js-challenges/issues/399)
 - [下一个更大的元素II](https://github.com/Sunny-117/js-challenges/issues/400)
+
+## 贪心
+- [用最少数量的箭引爆气球](https://github.com/Sunny-117/js-challenges/issues/411)
 
 ## 位运算
 
