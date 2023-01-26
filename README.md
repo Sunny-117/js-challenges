@@ -110,8 +110,8 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/richard-zhang1019">
-            <img src="https://avatars.githubusercontent.com/u/76982270?v=4" width="100;" alt="richard-zhang1019"/>
+        <a href="https://github.com/Richard-Zhang1019">
+            <img src="https://avatars.githubusercontent.com/u/76982270?v=4" width="100;" alt="Richard-Zhang1019"/>
             <br />
             <sub><b>Richard Zhang</b></sub>
         </a>
