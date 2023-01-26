@@ -39,14 +39,13 @@
 
 **里面有答案，为了让你们有一个参考，不过非常希望你们能提供自己的思路，指出答案中存在的问题，复杂度优化等等， 期待你们的 contribute, 想来一起维护这个项目，可以联系我，成为 contributor**
 
-**最后我把社区的好的答案汇总到一个目录下，答案专栏，方便刷题**
+最后我把社区的好的答案汇总到一个目录下，答案专栏，方便刷题
 
 主要是让大家讨论出最优解，然后 merge，一起贡献这个项目，有些答案有点问题，所以我给出的答案仅作参考，也欢迎发现的小伙伴提 PR
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Sunny-117/js-challenges/issues). You can also take a look at the [contributing guide](https://github.com/Sunny-117/js-challenges#%E8%B4%A1%E7%8C%AE%E6%AD%A4%E9%A1%B9%E7%9B%AE).
-
 
 Thank you to all the people who already contributed to js-challenges!
 
@@ -111,6 +110,13 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Richard-Zhang1019">
+            <img src="https://avatars.githubusercontent.com/u/76982270?v=4" width="100;" alt="Richard-Zhang1019"/>
+            <br />
+            <sub><b>Richard Zhang</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/jlx2002">
             <img src="https://avatars.githubusercontent.com/u/83263333?v=4" width="100;" alt="jlx2002"/>
             <br />
@@ -130,15 +136,15 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>HuiPeng Lu</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ChelesteWang">
             <img src="https://avatars.githubusercontent.com/u/40495740?v=4" width="100;" alt="ChelesteWang"/>
             <br />
             <sub><b>Xinyuan Wang</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/lechang-zhang">
             <img src="https://avatars.githubusercontent.com/u/63288975?v=4" width="100;" alt="lechang-zhang"/>
@@ -158,13 +164,6 @@ Thank you to all the people who already contributed to js-challenges!
             <img src="https://avatars.githubusercontent.com/u/94227696?v=4" width="100;" alt="lxy-Jason"/>
             <br />
             <sub><b>Lxy-Jason</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Ayu-1019">
-            <img src="https://avatars.githubusercontent.com/u/76982270?v=4" width="100;" alt="Ayu-1019"/>
-            <br />
-            <sub><b>Richard Zhang</b></sub>
         </a>
     </td>
     <td align="center">
@@ -197,6 +196,7 @@ Thank you to all the people who already contributed to js-challenges!
 主要用来解答 js-challenges 用户的疑问，js-challenges 的贡献，计划 js-challenges 的未来(建议)
 
 欢迎加我微信，我拉你进群：17560850561
+
 <center class="half">
 <img src="./assets/qun.png" width="100">
 <img src="./assets/me.png" width="100">
@@ -504,12 +504,13 @@ TODOS
 - [选项卡](https://github.com/Sunny-117/Front-end-handwritten-question/issues/180)
 - [拖拽](https://github.com/Sunny-117/Front-end-handwritten-question/issues/179)
 
-## Vue原理题
-- [手写v-model简易版](https://github.com/Sunny-117/js-challenges/issues/388)
-- [手写vue2响应式](https://github.com/Sunny-117/js-challenges/issues/390)
-- [手写vue3 proxy实现数据响应式](https://github.com/Sunny-117/js-challenges/issues/397)
-- [手写v-bind简易版](https://github.com/Sunny-117/js-challenges/issues/396)
-- [手写v-html 和v-text](https://github.com/Sunny-117/js-challenges/issues/395) 
+## Vue 原理题
+
+- [手写 v-model 简易版](https://github.com/Sunny-117/js-challenges/issues/388)
+- [手写 vue2 响应式](https://github.com/Sunny-117/js-challenges/issues/390)
+- [手写 vue3 proxy 实现数据响应式](https://github.com/Sunny-117/js-challenges/issues/397)
+- [手写 v-bind 简易版](https://github.com/Sunny-117/js-challenges/issues/396)
+- [手写 v-html 和 v-text](https://github.com/Sunny-117/js-challenges/issues/395)
 
 ## HTML CSS 手写题
 
@@ -629,13 +630,13 @@ TODOS
 - [第一个错误的版本](https://github.com/Sunny-117/js-challenges/issues/353)
 - [有序数组中的单一元素](https://github.com/Sunny-117/js-challenges/issues/354)
 - [旋转数组的最小数字](https://github.com/Sunny-117/js-challenges/issues/355)
-- [0～n-1中缺失的数字](https://github.com/Sunny-117/js-challenges/issues/356)
+- [0 ～ n-1 中缺失的数字](https://github.com/Sunny-117/js-challenges/issues/356)
 
 ## 滑动窗口
 
 - [无重复字符的最长子串](https://github.com/Sunny-117/js-challenges/issues/357)
 - [字符串的排列](https://github.com/Sunny-117/js-challenges/issues/358)
-- [和为s的连续正数序列](https://github.com/Sunny-117/js-challenges/issues/359)
+- [和为 s 的连续正数序列](https://github.com/Sunny-117/js-challenges/issues/359)
 
 ## 双指针
 
@@ -654,14 +655,15 @@ TODOS
 - [队列的最大值](https://github.com/Sunny-117/js-challenges/issues/369)
 
 ## 单调栈
+
 - [每日温度](https://github.com/Sunny-117/js-challenges/issues/398)
-- [下一个更大的元素I](https://github.com/Sunny-117/js-challenges/issues/399)
-- [下一个更大的元素II](https://github.com/Sunny-117/js-challenges/issues/400)
+- [下一个更大的元素 I](https://github.com/Sunny-117/js-challenges/issues/399)
+- [下一个更大的元素 II](https://github.com/Sunny-117/js-challenges/issues/400)
 
 ## 位运算
 
 - [只出现一次的数字](https://github.com/Sunny-117/js-challenges/issues/370)
-- [二进制中1的个数](https://github.com/Sunny-117/js-challenges/issues/371)
+- [二进制中 1 的个数](https://github.com/Sunny-117/js-challenges/issues/371)
 - [数组中数字出现的次数](https://github.com/Sunny-117/js-challenges/issues/372)
 - [不用加减乘除做加法](https://github.com/Sunny-117/js-challenges/issues/373)
 
@@ -686,13 +688,9 @@ TODOS
 
 本项目会持续更新
 
-整理不易，如果您觉得本项目对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，^_^，谢谢！
+整理不易，如果您觉得本项目对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X 元，^\_^，谢谢！
 
-
-<img src="./alipay.jpg" width="200">   <img src='./weixin.png' width="200">
-
-
-
+<img src="./alipay.jpg" width="200"> <img src='./weixin.png' width="200">
 
 ## 📝 License
 
