@@ -667,6 +667,15 @@ TODOS
 - [数组中数字出现的次数](https://github.com/Sunny-117/js-challenges/issues/372)
 - [不用加减乘除做加法](https://github.com/Sunny-117/js-challenges/issues/373)
 
+## 动态规划
+
+- [最大子数组和](https://github.com/Sunny-117/js-challenges/issues/422)
+- [最小路径和](https://github.com/Sunny-117/js-challenges/issues/423)
+- [不同路径](https://github.com/Sunny-117/js-challenges/issues/424)
+- [不同路径 II](https://github.com/Sunny-117/js-challenges/issues/425)
+- [爬楼梯](https://github.com/Sunny-117/js-challenges/issues/426)
+- [最长有效括号](https://github.com/Sunny-117/js-challenges/issues/427)
+
 # 更新中
 
 ![](js.png)
