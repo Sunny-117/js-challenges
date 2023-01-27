@@ -67,17 +67,17 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/DiF1202">
-            <img src="https://avatars.githubusercontent.com/u/79006848?v=4" width="100;" alt="DiF1202"/>
-            <br />
-            <sub><b>DiF1202</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Pcjmy">
             <img src="https://avatars.githubusercontent.com/u/73071671?v=4" width="100;" alt="Pcjmy"/>
             <br />
             <sub><b>Pcjmy</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/DiF1202">
+            <img src="https://avatars.githubusercontent.com/u/79006848?v=4" width="100;" alt="DiF1202"/>
+            <br />
+            <sub><b>DiF1202</b></sub>
         </a>
     </td>
     <td align="center">
