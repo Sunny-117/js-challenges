@@ -384,6 +384,7 @@ TODOS
 - [concat](https://github.com/Sunny-117/js-challenges/issues/347)
 - [includes](https://github.com/Sunny-117/js-challenges/issues/348)
 - [Trim](https://github.com/Sunny-117/js-challenges/issues/375)
+- [Omit](https://github.com/Sunny-117/js-challenges/issues/429)
 
 ## 设计模式相关
 
