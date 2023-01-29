@@ -702,6 +702,15 @@ TODOS
 - [爬楼梯](https://github.com/Sunny-117/js-challenges/issues/426)
 - [最长有效括号](https://github.com/Sunny-117/js-challenges/issues/427)
 
+## 回溯
+
+- [括号生成](https://github.com/Sunny-117/js-challenges/issues/437)
+- [电话号码的字母组合](https://github.com/Sunny-117/js-challenges/issues/438)
+- [全排列](https://github.com/Sunny-117/js-challenges/issues/439)
+- [全排列 II](https://github.com/Sunny-117/js-challenges/issues/440)
+- [N皇后](https://github.com/Sunny-117/js-challenges/issues/441)
+- [N皇后 II](https://github.com/Sunny-117/js-challenges/issues/442)
+
 # 更新中
 
 ![](js.png)
