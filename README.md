@@ -384,6 +384,11 @@ TODOS
 - [concat](https://github.com/Sunny-117/js-challenges/issues/347)
 - [includes](https://github.com/Sunny-117/js-challenges/issues/348)
 - [Trim](https://github.com/Sunny-117/js-challenges/issues/375)
+- [push](https://github.com/Sunny-117/js-challenges/issues/431)
+- [unshift](https://github.com/Sunny-117/js-challenges/issues/432)
+- [parameters](https://github.com/Sunny-117/js-challenges/issues/433)
+- [returnType](https://github.com/Sunny-117/js-challenges/issues/434)
+- [myReadonly2](https://github.com/Sunny-117/js-challenges/issues/435)
 
 ## 设计模式相关
 
