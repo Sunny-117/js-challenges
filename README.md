@@ -167,27 +167,20 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/zhuba-Ahhh">
-            <img src="https://avatars.githubusercontent.com/u/84793349?v=4" width="100;" alt="zhuba-Ahhh"/>
-            <br />
-            <sub><b>Zhuba-Ahhh</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/CwRv07">
             <img src="https://avatars.githubusercontent.com/u/71303732?v=4" width="100;" alt="CwRv07"/>
             <br />
             <sub><b>卷心菜汪</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ZZK520">
             <img src="https://avatars.githubusercontent.com/u/55746960?v=4" width="100;" alt="ZZK520"/>
             <br />
             <sub><b>朱志康</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/qiuye-zhou">
             <img src="https://avatars.githubusercontent.com/u/75529722?v=4" width="100;" alt="qiuye-zhou"/>
