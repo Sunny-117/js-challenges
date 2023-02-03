@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <span>
+            <a></a>
+        </span>
+        <span>
+            <a></a>
+            <a></a>
+        </span>
+    </div>
+
+    <script>
+        // DOM2JSON
+        const json = {
+            tag: 'DIV',
+            children: [
+                {
+                    tag: 'SPAN',
+                    children: [
+                        { tag: 'A', children: [] }
+                    ]
+                },
+                {
+                    tag: 'SPAN',
+                    children: [
+                        { tag: 'A', children: [] },
+                        { tag: 'A', children: [] }
+                    ]
+                }
+            ]
+        }
+        function dom2json(dom) {
+            // TODO
+        }
+        const div = document.getElementsByTagName('div')[0]
+        const res = dom2json(div)
+        console.log('[ res ] >', res)
+    </script>
+</body>
+
+</html>
