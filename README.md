@@ -43,6 +43,20 @@
 
 主要是让大家讨论出最优解，然后 merge，一起贡献这个项目，有些答案有点问题，所以我给出的答案仅作参考，也欢迎发现的小伙伴提 PR
 
+# 🎉🎉🎉 js-challanges-answer
+
+时隔三个月，js-challanges 由*收集答案阶段*正式进入*答案评估和产出*阶段
+
+**文档地址：https://sunny-117.github.io/js-challenges/**
+
+## 计划
+
+🔥 每一题录制讲解视频，发布到我的 B 站账号上 https://space.bilibili.com/447694807, 第一次录视频，请不要喷 🙈🙈🙈
+
+🚀 讲解文章和题目答案发布到掘金社区和本仓库
+
+🎉 追求极致，每一题达到最优解
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Sunny-117/js-challenges/issues). You can also take a look at the [contributing guide](https://github.com/Sunny-117/js-challenges#%E8%B4%A1%E7%8C%AE%E6%AD%A4%E9%A1%B9%E7%9B%AE).
@@ -167,20 +181,27 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/zhuba-Ahhh">
+            <img src="https://avatars.githubusercontent.com/u/84793349?v=4" width="100;" alt="zhuba-Ahhh"/>
+            <br />
+            <sub><b>Zhuba-Ahhh</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/CwRv07">
             <img src="https://avatars.githubusercontent.com/u/71303732?v=4" width="100;" alt="CwRv07"/>
             <br />
             <sub><b>卷心菜汪</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ZZK520">
             <img src="https://avatars.githubusercontent.com/u/55746960?v=4" width="100;" alt="ZZK520"/>
             <br />
             <sub><b>朱志康</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/qiuye-zhou">
             <img src="https://avatars.githubusercontent.com/u/75529722?v=4" width="100;" alt="qiuye-zhou"/>
@@ -384,6 +405,11 @@ TODOS
 - [concat](https://github.com/Sunny-117/js-challenges/issues/347)
 - [includes](https://github.com/Sunny-117/js-challenges/issues/348)
 - [Trim](https://github.com/Sunny-117/js-challenges/issues/375)
+- [push](https://github.com/Sunny-117/js-challenges/issues/431)
+- [unshift](https://github.com/Sunny-117/js-challenges/issues/432)
+- [parameters](https://github.com/Sunny-117/js-challenges/issues/433)
+- [returnType](https://github.com/Sunny-117/js-challenges/issues/434)
+- [myReadonly2](https://github.com/Sunny-117/js-challenges/issues/435)
 - [Omit](https://github.com/Sunny-117/js-challenges/issues/429)
 
 ## 设计模式相关
@@ -676,6 +702,24 @@ TODOS
 - [不同路径 II](https://github.com/Sunny-117/js-challenges/issues/425)
 - [爬楼梯](https://github.com/Sunny-117/js-challenges/issues/426)
 - [最长有效括号](https://github.com/Sunny-117/js-challenges/issues/427)
+
+## 回溯
+
+- [括号生成](https://github.com/Sunny-117/js-challenges/issues/437)
+- [电话号码的字母组合](https://github.com/Sunny-117/js-challenges/issues/438)
+- [全排列](https://github.com/Sunny-117/js-challenges/issues/439)
+- [全排列 II](https://github.com/Sunny-117/js-challenges/issues/440)
+- [N皇后](https://github.com/Sunny-117/js-challenges/issues/441)
+- [N皇后 II](https://github.com/Sunny-117/js-challenges/issues/442)
+
+## 字符串
+
+- [最长公共前缀](https://github.com/Sunny-117/js-challenges/issues/444)
+- [罗马数字转整数](https://github.com/Sunny-117/js-challenges/issues/445)
+- [整数转罗马数字](https://github.com/Sunny-117/js-challenges/issues/446)
+- [找出字符串中第一个匹配项的下标](https://github.com/Sunny-117/js-challenges/issues/447)
+- [不同的子序列](https://github.com/Sunny-117/js-challenges/issues/448)
+- [最长重复子串](https://github.com/Sunny-117/js-challenges/issues/449)
 
 # 更新中
 
