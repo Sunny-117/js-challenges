@@ -711,6 +711,15 @@ TODOS
 - [N皇后](https://github.com/Sunny-117/js-challenges/issues/441)
 - [N皇后 II](https://github.com/Sunny-117/js-challenges/issues/442)
 
+## 字符串
+
+- [最长公共前缀]
+- [罗马数字转整数]
+- [整数转罗马数字]
+- [找出字符串中第一个匹配项的下标]
+- [不同的子序列]
+- [最长重复子串]
+
 # 更新中
 
 ![](js.png)
