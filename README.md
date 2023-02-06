@@ -153,6 +153,13 @@ Thank you to all the people who already contributed to js-challenges!
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Stream-web">
+            <img src="https://avatars.githubusercontent.com/u/65757184?v=4" width="100;" alt="Stream-web"/>
+            <br />
+            <sub><b>Stream-web</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ChelesteWang">
             <img src="https://avatars.githubusercontent.com/u/40495740?v=4" width="100;" alt="ChelesteWang"/>
             <br />
@@ -186,15 +193,22 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>Zhuba-Ahhh</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/CwRv07">
             <img src="https://avatars.githubusercontent.com/u/71303732?v=4" width="100;" alt="CwRv07"/>
             <br />
             <sub><b>卷心菜汪</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/linjunc">
+            <img src="https://avatars.githubusercontent.com/u/78683712?v=4" width="100;" alt="linjunc"/>
+            <br />
+            <sub><b>小丞同学</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/ZZK520">
             <img src="https://avatars.githubusercontent.com/u/55746960?v=4" width="100;" alt="ZZK520"/>
