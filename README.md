@@ -410,6 +410,7 @@ TODOS
 - [parameters](https://github.com/Sunny-117/js-challenges/issues/433)
 - [returnType](https://github.com/Sunny-117/js-challenges/issues/434)
 - [myReadonly2](https://github.com/Sunny-117/js-challenges/issues/435)
+- [Omit](https://github.com/Sunny-117/js-challenges/issues/429)
 
 ## 设计模式相关
 
