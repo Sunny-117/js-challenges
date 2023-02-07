@@ -49,6 +49,8 @@
 
 **文档地址：https://sunny-117.github.io/js-challenges/**
 
+> 由于个人时间原因，预计开始时间：2023 年 3 月-4 月
+
 ## 计划
 
 🔥 每一题录制讲解视频，发布到我的 B 站账号上 https://space.bilibili.com/447694807, 第一次录视频，请不要喷 🙈🙈🙈
@@ -724,8 +726,8 @@ TODOS
 - [电话号码的字母组合](https://github.com/Sunny-117/js-challenges/issues/438)
 - [全排列](https://github.com/Sunny-117/js-challenges/issues/439)
 - [全排列 II](https://github.com/Sunny-117/js-challenges/issues/440)
-- [N皇后](https://github.com/Sunny-117/js-challenges/issues/441)
-- [N皇后 II](https://github.com/Sunny-117/js-challenges/issues/442)
+- [N 皇后](https://github.com/Sunny-117/js-challenges/issues/441)
+- [N 皇后 II](https://github.com/Sunny-117/js-challenges/issues/442)
 
 ## 字符串
 
