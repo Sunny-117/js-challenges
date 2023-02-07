@@ -153,6 +153,13 @@ Thank you to all the people who already contributed to js-challenges!
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Stream-web">
+            <img src="https://avatars.githubusercontent.com/u/65757184?v=4" width="100;" alt="Stream-web"/>
+            <br />
+            <sub><b>Stream-web</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ChelesteWang">
             <img src="https://avatars.githubusercontent.com/u/40495740?v=4" width="100;" alt="ChelesteWang"/>
             <br />
@@ -186,15 +193,22 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>Zhuba-Ahhh</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/CwRv07">
             <img src="https://avatars.githubusercontent.com/u/71303732?v=4" width="100;" alt="CwRv07"/>
             <br />
             <sub><b>卷心菜汪</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/linjunc">
+            <img src="https://avatars.githubusercontent.com/u/78683712?v=4" width="100;" alt="linjunc"/>
+            <br />
+            <sub><b>小丞同学</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/ZZK520">
             <img src="https://avatars.githubusercontent.com/u/55746960?v=4" width="100;" alt="ZZK520"/>
@@ -410,6 +424,7 @@ TODOS
 - [parameters](https://github.com/Sunny-117/js-challenges/issues/433)
 - [returnType](https://github.com/Sunny-117/js-challenges/issues/434)
 - [myReadonly2](https://github.com/Sunny-117/js-challenges/issues/435)
+- [Omit](https://github.com/Sunny-117/js-challenges/issues/429)
 
 ## 设计模式相关
 
@@ -701,6 +716,7 @@ TODOS
 - [不同路径 II](https://github.com/Sunny-117/js-challenges/issues/425)
 - [爬楼梯](https://github.com/Sunny-117/js-challenges/issues/426)
 - [最长有效括号](https://github.com/Sunny-117/js-challenges/issues/427)
+- [零钱兑换](https://github.com/Sunny-117/js-challenges/issues/451)
 
 ## 回溯
 
@@ -710,6 +726,15 @@ TODOS
 - [全排列 II](https://github.com/Sunny-117/js-challenges/issues/440)
 - [N皇后](https://github.com/Sunny-117/js-challenges/issues/441)
 - [N皇后 II](https://github.com/Sunny-117/js-challenges/issues/442)
+
+## 字符串
+
+- [最长公共前缀](https://github.com/Sunny-117/js-challenges/issues/444)
+- [罗马数字转整数](https://github.com/Sunny-117/js-challenges/issues/445)
+- [整数转罗马数字](https://github.com/Sunny-117/js-challenges/issues/446)
+- [找出字符串中第一个匹配项的下标](https://github.com/Sunny-117/js-challenges/issues/447)
+- [不同的子序列](https://github.com/Sunny-117/js-challenges/issues/448)
+- [最长重复子串](https://github.com/Sunny-117/js-challenges/issues/449)
 
 # 更新中
 
