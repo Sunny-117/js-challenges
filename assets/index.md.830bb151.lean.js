@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a as t}from"./app.7f3dfc62.js";const f=JSON.parse('{"title":"js-challanges answer","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),r={name:"index.md"},n=t("",7),c=[n];function i(l,o,_,d,p,h){return s(),a("div",null,c)}const b=e(r,[["render",i]]);export{f as __pageData,b as default};
