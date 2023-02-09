@@ -1,3 +1,45 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="box">
+        <p class="p">hello world</p>
+        <div class="person">
+            <span class="name">DOM2JSON</span>
+            <span class="age">100</span>
+        </div>
+    </div>
+
+    <script>
+        function DOM2JSON(domTree) {
+            if (!domTree) return;
+            let rootObj = {
+                tagName: domTree.tagName,
+                children: []
+            }
+
+            const children = domTree.children
+            if (children) {
+                Array.from(children).forEach((element, i) => {
+                    rootObj.children[i] = DOM2JSON(element)
+                })
+            }
+            return rootObj
+        }
+
+        console.log(DOM2JSON(document.querySelector('.box')))
+    </script>
+</body>
+
+</html> -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,32 +60,45 @@
             <a></a>
         </span>
     </div>
-
     <script>
-        // DOM2JSON
-        const json = {
-            tag: 'DIV',
-            children: [
-                {
-                    tag: 'SPAN',
-                    children: [
-                        { tag: 'A', children: [] }
-                    ]
-                },
-                {
-                    tag: 'SPAN',
-                    children: [
-                        { tag: 'A', children: [] },
-                        { tag: 'A', children: [] }
-                    ]
+        class Vnode {
+            constructor(tag, data, value, type) {
+                this.tag = tag && tag.toLowerCase()
+                this.data = data
+                this.value = value
+                this.type = type
+                this.children = []
+            }
+            appendChild(vNode) {
+                this.children.push(vNode)
+            }
+        }
+
+        // 遍历节点生成虚拟Dom 
+        function createVnode(node) {
+            const nodeType = node.nodeType
+            let _vnode = null
+            if (nodeType === 1) {
+                const tagName = node.nodeName //获取标签类型
+                const attrList = node.attributes; //获取标签所有的标签属性
+                const attrData = {}  //存放标签属性 
+                for (let i = 0; i < attrList.length; i++) {
+                    attrData[attrList[i].nodeName] = attrList[i].nodeValue
                 }
-            ]
+                _vnode = new Vnode(tagName, attrData, undefined, nodeType) // tag,data,value,type
+                // 处理子元素
+                const childNodes = node.childNodes
+                for (let i = 0; i < childNodes.length; i++) {
+                    _vnode.appendChild(createVnode(childNodes[i]))
+                }
+            } else if (nodeType === 3) {
+                // 文本节点
+                _vnode = new Vnode(undefined, undefined, node.nodeValue, nodeType)
+            }
+            return _vnode
         }
-        function dom2json(dom) {
-            // TODO
-        }
-        const div = document.getElementsByTagName('div')[0]
-        const res = dom2json(div)
+        const div = document.getElementsByTagName("div")[0];
+        const res = createVnode(div);
         console.log('[ res ] >', res)
     </script>
 </body>

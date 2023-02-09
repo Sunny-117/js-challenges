@@ -49,6 +49,8 @@
 
 **文档地址：https://sunny-117.github.io/js-challenges/**
 
+> 由于个人时间原因，预计开始时间：2023 年 3 月-4 月
+
 ## 计划
 
 🔥 每一题录制讲解视频，发布到我的 B 站账号上 https://space.bilibili.com/447694807, 第一次录视频，请不要喷 🙈🙈🙈
@@ -153,6 +155,13 @@ Thank you to all the people who already contributed to js-challenges!
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Stream-web">
+            <img src="https://avatars.githubusercontent.com/u/65757184?v=4" width="100;" alt="Stream-web"/>
+            <br />
+            <sub><b>Stream-web</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ChelesteWang">
             <img src="https://avatars.githubusercontent.com/u/40495740?v=4" width="100;" alt="ChelesteWang"/>
             <br />
@@ -186,15 +195,22 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>Zhuba-Ahhh</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/CwRv07">
             <img src="https://avatars.githubusercontent.com/u/71303732?v=4" width="100;" alt="CwRv07"/>
             <br />
             <sub><b>卷心菜汪</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/linjunc">
+            <img src="https://avatars.githubusercontent.com/u/78683712?v=4" width="100;" alt="linjunc"/>
+            <br />
+            <sub><b>小丞同学</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/ZZK520">
             <img src="https://avatars.githubusercontent.com/u/55746960?v=4" width="100;" alt="ZZK520"/>
@@ -410,6 +426,7 @@ TODOS
 - [parameters](https://github.com/Sunny-117/js-challenges/issues/433)
 - [returnType](https://github.com/Sunny-117/js-challenges/issues/434)
 - [myReadonly2](https://github.com/Sunny-117/js-challenges/issues/435)
+- [Omit](https://github.com/Sunny-117/js-challenges/issues/429)
 
 ## 设计模式相关
 
@@ -701,6 +718,7 @@ TODOS
 - [不同路径 II](https://github.com/Sunny-117/js-challenges/issues/425)
 - [爬楼梯](https://github.com/Sunny-117/js-challenges/issues/426)
 - [最长有效括号](https://github.com/Sunny-117/js-challenges/issues/427)
+- [零钱兑换](https://github.com/Sunny-117/js-challenges/issues/451)
 
 ## 回溯
 
@@ -708,8 +726,17 @@ TODOS
 - [电话号码的字母组合](https://github.com/Sunny-117/js-challenges/issues/438)
 - [全排列](https://github.com/Sunny-117/js-challenges/issues/439)
 - [全排列 II](https://github.com/Sunny-117/js-challenges/issues/440)
-- [N皇后](https://github.com/Sunny-117/js-challenges/issues/441)
-- [N皇后 II](https://github.com/Sunny-117/js-challenges/issues/442)
+- [N 皇后](https://github.com/Sunny-117/js-challenges/issues/441)
+- [N 皇后 II](https://github.com/Sunny-117/js-challenges/issues/442)
+
+## 字符串
+
+- [最长公共前缀](https://github.com/Sunny-117/js-challenges/issues/444)
+- [罗马数字转整数](https://github.com/Sunny-117/js-challenges/issues/445)
+- [整数转罗马数字](https://github.com/Sunny-117/js-challenges/issues/446)
+- [找出字符串中第一个匹配项的下标](https://github.com/Sunny-117/js-challenges/issues/447)
+- [不同的子序列](https://github.com/Sunny-117/js-challenges/issues/448)
+- [最长重复子串](https://github.com/Sunny-117/js-challenges/issues/449)
 
 ## 字符串
 
@@ -728,8 +755,8 @@ TODOS
 
 # 后续计划
 
+- [ ] 区分题目难易程度（针对不同大厂准备的面试题），提升准备效率 优先级最高
 - [ ] 做成 OJ 判题系统
-- [ ] 区分题目难易程度
 - [ ] 单元测试
 - [ ] 正确答案集合 merge
 
