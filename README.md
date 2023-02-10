@@ -18,7 +18,7 @@
 
 > 集锦大厂面试常考的 前端手写题和 leetcode 算法题
 
-### 🏠 [Homepage](https://github.com/Sunny-117/js-challenges)
+### 🏠 [DOCS](https://sunny-117.github.io/js-challenges/)
 
 ## Author
 
