@@ -430,6 +430,9 @@ TODOS
 
 ## 设计模式相关
 
+- [单例模式 ](https://github.com/Sunny-117/js-challenges/issues/458)
+- [命令模式](https://github.com/Sunny-117/js-challenges/issues/460)
+- [策略模式](https://github.com/Sunny-117/js-challenges/issues/461)
 - [观察者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/62)
 - [发布订阅者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/60)
 
@@ -470,6 +473,7 @@ TODOS
 - [JSON.stringify](https://github.com/Sunny-117/Front-end-handwritten-question/issues/28)
 - [JSON.parse](https://github.com/Sunny-117/Front-end-handwritten-question/issues/29)
 - [call apply bind](https://github.com/Sunny-117/Front-end-handwritten-question/issues/30)
+- [typeof](https://github.com/Sunny-117/js-challenges/issues/459)
 - [instanceof](https://github.com/Sunny-117/Front-end-handwritten-question/issues/32)
 - [trim](https://github.com/Sunny-117/Front-end-handwritten-question/issues/33)
 - [实现 new](https://github.com/Sunny-117/Front-end-handwritten-question/issues/34)
