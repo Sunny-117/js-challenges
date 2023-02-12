@@ -155,6 +155,13 @@ Thank you to all the people who already contributed to js-challenges!
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/LittlebearHat">
+            <img src="https://avatars.githubusercontent.com/u/69905628?v=4" width="100;" alt="LittlebearHat"/>
+            <br />
+            <sub><b>LittlebearHat</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Stream-web">
             <img src="https://avatars.githubusercontent.com/u/65757184?v=4" width="100;" alt="Stream-web"/>
             <br />
@@ -188,15 +195,15 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>Lxy-Jason</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/zhuba-Ahhh">
             <img src="https://avatars.githubusercontent.com/u/84793349?v=4" width="100;" alt="zhuba-Ahhh"/>
             <br />
             <sub><b>Zhuba-Ahhh</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/CwRv07">
             <img src="https://avatars.githubusercontent.com/u/71303732?v=4" width="100;" alt="CwRv07"/>
