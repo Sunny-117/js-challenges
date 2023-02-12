@@ -18,7 +18,7 @@
 
 > 集锦大厂面试常考的 前端手写题和 leetcode 算法题
 
-### 🏠 [Homepage](https://github.com/Sunny-117/js-challenges)
+### 🏠 [DOCS](https://sunny-117.github.io/js-challenges/)
 
 ## Author
 
@@ -155,6 +155,13 @@ Thank you to all the people who already contributed to js-challenges!
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/LittlebearHat">
+            <img src="https://avatars.githubusercontent.com/u/69905628?v=4" width="100;" alt="LittlebearHat"/>
+            <br />
+            <sub><b>LittlebearHat</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Stream-web">
             <img src="https://avatars.githubusercontent.com/u/65757184?v=4" width="100;" alt="Stream-web"/>
             <br />
@@ -188,15 +195,15 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>Lxy-Jason</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/zhuba-Ahhh">
             <img src="https://avatars.githubusercontent.com/u/84793349?v=4" width="100;" alt="zhuba-Ahhh"/>
             <br />
             <sub><b>Zhuba-Ahhh</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/CwRv07">
             <img src="https://avatars.githubusercontent.com/u/71303732?v=4" width="100;" alt="CwRv07"/>
@@ -430,6 +437,9 @@ TODOS
 
 ## 设计模式相关
 
+- [单例模式 ](https://github.com/Sunny-117/js-challenges/issues/458)
+- [命令模式](https://github.com/Sunny-117/js-challenges/issues/460)
+- [策略模式](https://github.com/Sunny-117/js-challenges/issues/461)
 - [观察者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/62)
 - [发布订阅者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/60)
 
@@ -470,6 +480,7 @@ TODOS
 - [JSON.stringify](https://github.com/Sunny-117/Front-end-handwritten-question/issues/28)
 - [JSON.parse](https://github.com/Sunny-117/Front-end-handwritten-question/issues/29)
 - [call apply bind](https://github.com/Sunny-117/Front-end-handwritten-question/issues/30)
+- [typeof](https://github.com/Sunny-117/js-challenges/issues/459)
 - [instanceof](https://github.com/Sunny-117/Front-end-handwritten-question/issues/32)
 - [trim](https://github.com/Sunny-117/Front-end-handwritten-question/issues/33)
 - [实现 new](https://github.com/Sunny-117/Front-end-handwritten-question/issues/34)
