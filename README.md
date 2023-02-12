@@ -646,6 +646,8 @@ TODOS
 - [二叉树的完全性检验](https://github.com/Sunny-117/js-challenges/issues/304)
 - [序列化二叉树](https://github.com/Sunny-117/js-challenges/issues/385)
 - [二叉树的最近公共祖先](https://github.com/Sunny-117/js-challenges/issues/384)
+- [相同的树](https://github.com/Sunny-117/js-challenges/issues/463)
+- [对称二叉树](https://github.com/Sunny-117/js-challenges/issues/464)
 
 ## 子序列问题
 
@@ -710,8 +712,6 @@ TODOS
 - [数组中数字出现的次数](https://github.com/Sunny-117/js-challenges/issues/372)
 - [不用加减乘除做加法](https://github.com/Sunny-117/js-challenges/issues/373)
 - [4的幂](https://github.com/Sunny-117/js-challenges/issues/453)
-- [数组中两个数的最大异或值](https://github.com/Sunny-117/js-challenges/issues/454)
-- [二进制求和](https://github.com/Sunny-117/js-challenges/issues/455)
 
 ## 动态规划
 
