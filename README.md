@@ -647,17 +647,32 @@ TODOS
 ## 二叉树
 
 - [路径总和](https://github.com/Sunny-117/js-challenges/issues/296)
+
 - [路径总和 II](https://github.com/Sunny-117/js-challenges/issues/297)
+
 - [二叉树的所有路径](https://github.com/Sunny-117/js-challenges/issues/298)
+
 - [二叉树的层序遍历](https://github.com/Sunny-117/js-challenges/issues/299)
+
 - [二叉树的锯齿形层序遍历](https://github.com/Sunny-117/js-challenges/issues/300)
+
 - [N 叉树的层序遍历](https://github.com/Sunny-117/js-challenges/issues/301)
+
 - [二叉树的最大深度](https://github.com/Sunny-117/js-challenges/issues/302)
+
 - [二叉树的前序遍历](https://github.com/Sunny-117/js-challenges/issues/303)
+
 - [二叉树的完全性检验](https://github.com/Sunny-117/js-challenges/issues/304)
+
 - [序列化二叉树](https://github.com/Sunny-117/js-challenges/issues/385)
+
 - [二叉树的最近公共祖先](https://github.com/Sunny-117/js-challenges/issues/384)
+
 - [翻转二叉树](https://github.com/Sunny-117/js-challenges/issues/414)
+
+- [从中序与后序遍历序列构造二叉树](https://github.com/Sunny-117/js-challenges/issues/469)
+
+  
 
 ## 子序列问题
 
