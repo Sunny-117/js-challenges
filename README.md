@@ -722,7 +722,6 @@ TODOS
 - [二进制中 1 的个数](https://github.com/Sunny-117/js-challenges/issues/371)
 - [数组中数字出现的次数](https://github.com/Sunny-117/js-challenges/issues/372)
 - [不用加减乘除做加法](https://github.com/Sunny-117/js-challenges/issues/373)
-- [4的幂](https://github.com/Sunny-117/js-challenges/issues/453)
 
 ## 动态规划
 
