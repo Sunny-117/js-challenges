@@ -657,6 +657,8 @@ TODOS
 - [二叉树的完全性检验](https://github.com/Sunny-117/js-challenges/issues/304)
 - [序列化二叉树](https://github.com/Sunny-117/js-challenges/issues/385)
 - [二叉树的最近公共祖先](https://github.com/Sunny-117/js-challenges/issues/384)
+- [相同的树](https://github.com/Sunny-117/js-challenges/issues/463)
+- [对称二叉树](https://github.com/Sunny-117/js-challenges/issues/464)
 
 ## 子序列问题
 
