@@ -419,6 +419,7 @@ TODOS
 
 - [myPick](https://github.com/Sunny-117/js-challenges/issues/339)
 - [myReadonly](https://github.com/Sunny-117/js-challenges/issues/340)
+- [deepReadonly](https://github.com/Sunny-117/js-challenges/issues/476)
 - [tuple to object](https://github.com/Sunny-117/js-challenges/issues/341)
 - [first of Array](https://github.com/Sunny-117/js-challenges/issues/342)
 - [tuple of Length](https://github.com/Sunny-117/js-challenges/issues/343)
