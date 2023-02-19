@@ -76,17 +76,17 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Nasuke">
-            <img src="https://avatars.githubusercontent.com/u/78846539?v=4" width="100;" alt="Nasuke"/>
-            <br />
-            <sub><b>Nasuke</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Pcjmy">
             <img src="https://avatars.githubusercontent.com/u/73071671?v=4" width="100;" alt="Pcjmy"/>
             <br />
             <sub><b>Pcjmy</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Nasuke">
+            <img src="https://avatars.githubusercontent.com/u/78846539?v=4" width="100;" alt="Nasuke"/>
+            <br />
+            <sub><b>Nasuke</b></sub>
         </a>
     </td>
     <td align="center">
