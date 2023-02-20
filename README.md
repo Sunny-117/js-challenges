@@ -76,17 +76,17 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Nasuke">
-            <img src="https://avatars.githubusercontent.com/u/78846539?v=4" width="100;" alt="Nasuke"/>
-            <br />
-            <sub><b>Nasuke</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Pcjmy">
             <img src="https://avatars.githubusercontent.com/u/73071671?v=4" width="100;" alt="Pcjmy"/>
             <br />
             <sub><b>Pcjmy</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Nasuke">
+            <img src="https://avatars.githubusercontent.com/u/78846539?v=4" width="100;" alt="Nasuke"/>
+            <br />
+            <sub><b>Nasuke</b></sub>
         </a>
     </td>
     <td align="center">
@@ -419,6 +419,7 @@ TODOS
 
 - [myPick](https://github.com/Sunny-117/js-challenges/issues/339)
 - [myReadonly](https://github.com/Sunny-117/js-challenges/issues/340)
+- [deepReadonly](https://github.com/Sunny-117/js-challenges/issues/476)
 - [tuple to object](https://github.com/Sunny-117/js-challenges/issues/341)
 - [first of Array](https://github.com/Sunny-117/js-challenges/issues/342)
 - [tuple of Length](https://github.com/Sunny-117/js-challenges/issues/343)
