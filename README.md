@@ -31,7 +31,7 @@
 
 # CONTENT
 
-前端手写题集锦 use js 记录大厂**笔试，面试常考**手写题，2022 年前端面试中常见的 leetcode 算法题, 致力打造最全的前端 JavaScript 手写题题库和答案的最优解
+前端手写题集锦 记录大厂**笔试，面试常考**手写题，2022 年前端面试中常见的 leetcode 算法题, 致力打造最全的前端 JavaScript 手写题题库和答案的最优解
 
 > 题目来源：总结了牛客截止到 2022 年 10 月的所有大厂手写题[100%]，掘金部分出名的手写题文章，备战前端春招，秋招好友的总结好的题目(github), 就不一一列举链接啦，总之此项目题目来源于社区，答案也由社区讨论后 merge，也完全服务于社区。
 
@@ -76,17 +76,17 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Nasuke">
-            <img src="https://avatars.githubusercontent.com/u/78846539?v=4" width="100;" alt="Nasuke"/>
-            <br />
-            <sub><b>Nasuke</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Pcjmy">
             <img src="https://avatars.githubusercontent.com/u/73071671?v=4" width="100;" alt="Pcjmy"/>
             <br />
             <sub><b>Pcjmy</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Nasuke">
+            <img src="https://avatars.githubusercontent.com/u/78846539?v=4" width="100;" alt="Nasuke"/>
+            <br />
+            <sub><b>Nasuke</b></sub>
         </a>
     </td>
     <td align="center">
@@ -97,20 +97,27 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/lhp96">
+            <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
+            <br />
+            <sub><b>HuiPeng Lu</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/hannah-bingo">
             <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
             <br />
             <sub><b>Hannah</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lzxjack">
             <img src="https://avatars.githubusercontent.com/u/70835990?v=4" width="100;" alt="lzxjack"/>
             <br />
             <sub><b>飞鸟</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/FailurMan">
             <img src="https://avatars.githubusercontent.com/u/94963737?v=4" width="100;" alt="FailurMan"/>
@@ -144,13 +151,6 @@ Thank you to all the people who already contributed to js-challenges!
             <img src="https://avatars.githubusercontent.com/u/38655923?v=4" width="100;" alt="dossweet"/>
             <br />
             <sub><b>DoubleSweet</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/lhp96">
-            <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
-            <br />
-            <sub><b>HuiPeng Lu</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -419,6 +419,7 @@ TODOS
 
 - [myPick](https://github.com/Sunny-117/js-challenges/issues/339)
 - [myReadonly](https://github.com/Sunny-117/js-challenges/issues/340)
+- [deepReadonly](https://github.com/Sunny-117/js-challenges/issues/476)
 - [tuple to object](https://github.com/Sunny-117/js-challenges/issues/341)
 - [first of Array](https://github.com/Sunny-117/js-challenges/issues/342)
 - [tuple of Length](https://github.com/Sunny-117/js-challenges/issues/343)
@@ -472,6 +473,7 @@ TODOS
 - [Array.prototype.copy](https://github.com/Sunny-117/Front-end-handwritten-question/issues/18)
 - [Array.prototype.getLevel](https://github.com/Sunny-117/Front-end-handwritten-question/issues/19)
 - [Array.prototype.interator](https://github.com/Sunny-117/js-challenges/issues/337)
+- [Array.prototype.sort](https://github.com/Sunny-117/js-challenges/issues/472)
 - [实现 es6 的 set 集合](https://github.com/Sunny-117/Front-end-handwritten-question/issues/21)
 - [实现 es6 的 map 集合](https://github.com/Sunny-117/Front-end-handwritten-question/issues/22)
 - [String.prototype.zpadStart](https://github.com/Sunny-117/Front-end-handwritten-question/issues/23)
@@ -659,6 +661,9 @@ TODOS
 - [二叉树的最近公共祖先](https://github.com/Sunny-117/js-challenges/issues/384)
 - [翻转二叉树](https://github.com/Sunny-117/js-challenges/issues/414)
 - [从中序与后序遍历序列构造二叉树](https://github.com/Sunny-117/js-challenges/issues/469)
+- [相同的树](https://github.com/Sunny-117/js-challenges/issues/463)
+- [对称二叉树](https://github.com/Sunny-117/js-challenges/issues/464)
+
 
 ## 子序列问题
 
