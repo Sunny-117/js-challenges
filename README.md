@@ -97,20 +97,27 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/lhp96">
+            <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
+            <br />
+            <sub><b>HuiPeng Lu</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/hannah-bingo">
             <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
             <br />
             <sub><b>Hannah</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lzxjack">
             <img src="https://avatars.githubusercontent.com/u/70835990?v=4" width="100;" alt="lzxjack"/>
             <br />
             <sub><b>飞鸟</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/FailurMan">
             <img src="https://avatars.githubusercontent.com/u/94963737?v=4" width="100;" alt="FailurMan"/>
@@ -144,13 +151,6 @@ Thank you to all the people who already contributed to js-challenges!
             <img src="https://avatars.githubusercontent.com/u/38655923?v=4" width="100;" alt="dossweet"/>
             <br />
             <sub><b>DoubleSweet</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/lhp96">
-            <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
-            <br />
-            <sub><b>HuiPeng Lu</b></sub>
         </a>
     </td></tr>
 <tr>
