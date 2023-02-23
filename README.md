@@ -198,6 +198,13 @@ Thank you to all the people who already contributed to js-challenges!
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/veneno-o">
+            <img src="https://avatars.githubusercontent.com/u/85861380?v=4" width="100;" alt="veneno-o"/>
+            <br />
+            <sub><b>veneno-o</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/zhuba-Ahhh">
             <img src="https://avatars.githubusercontent.com/u/84793349?v=4" width="100;" alt="zhuba-Ahhh"/>
             <br />
