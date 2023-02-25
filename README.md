@@ -31,7 +31,7 @@
 
 # CONTENT
 
-前端手写题集锦 use js 记录大厂**笔试，面试常考**手写题，2022 年前端面试中常见的 leetcode 算法题, 致力打造最全的前端 JavaScript 手写题题库和答案的最优解
+前端手写题集锦 记录大厂**笔试，面试常考**手写题，2022 年前端面试中常见的 leetcode 算法题, 致力打造最全的前端 JavaScript 手写题题库和答案的最优解
 
 > 题目来源：总结了牛客截止到 2022 年 10 月的所有大厂手写题[100%]，掘金部分出名的手写题文章，备战前端春招，秋招好友的总结好的题目(github), 就不一一列举链接啦，总之此项目题目来源于社区，答案也由社区讨论后 merge，也完全服务于社区。
 
@@ -97,20 +97,27 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/lhp96">
+            <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
+            <br />
+            <sub><b>HuiPeng Lu</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/hannah-bingo">
             <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
             <br />
             <sub><b>Hannah</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lzxjack">
             <img src="https://avatars.githubusercontent.com/u/70835990?v=4" width="100;" alt="lzxjack"/>
             <br />
             <sub><b>飞鸟</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/FailurMan">
             <img src="https://avatars.githubusercontent.com/u/94963737?v=4" width="100;" alt="FailurMan"/>
@@ -144,13 +151,6 @@ Thank you to all the people who already contributed to js-challenges!
             <img src="https://avatars.githubusercontent.com/u/38655923?v=4" width="100;" alt="dossweet"/>
             <br />
             <sub><b>DoubleSweet</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/lhp96">
-            <img src="https://avatars.githubusercontent.com/u/72397995?v=4" width="100;" alt="lhp96"/>
-            <br />
-            <sub><b>HuiPeng Lu</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -197,6 +197,13 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td></tr>
 <tr>
+    <td align="center">
+        <a href="https://github.com/veneno-o">
+            <img src="https://avatars.githubusercontent.com/u/85861380?v=4" width="100;" alt="veneno-o"/>
+            <br />
+            <sub><b>Veneno-o</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/zhuba-Ahhh">
             <img src="https://avatars.githubusercontent.com/u/84793349?v=4" width="100;" alt="zhuba-Ahhh"/>
@@ -659,8 +666,11 @@ TODOS
 - [二叉树的完全性检验](https://github.com/Sunny-117/js-challenges/issues/304)
 - [序列化二叉树](https://github.com/Sunny-117/js-challenges/issues/385)
 - [二叉树的最近公共祖先](https://github.com/Sunny-117/js-challenges/issues/384)
+- [翻转二叉树](https://github.com/Sunny-117/js-challenges/issues/414)
+- [从中序与后序遍历序列构造二叉树](https://github.com/Sunny-117/js-challenges/issues/469)
 - [相同的树](https://github.com/Sunny-117/js-challenges/issues/463)
 - [对称二叉树](https://github.com/Sunny-117/js-challenges/issues/464)
+
 
 ## 子序列问题
 
