@@ -442,6 +442,9 @@ TODOS
 - [returnType](https://github.com/Sunny-117/js-challenges/issues/434)
 - [myReadonly2](https://github.com/Sunny-117/js-challenges/issues/435)
 - [Omit](https://github.com/Sunny-117/js-challenges/issues/429)
+- [repeat](https://github.com/Sunny-117/js-challenges/issues/480)
+- [add](https://github.com/Sunny-117/js-challenges/issues/481)
+- [CamelCase](https://github.com/Sunny-117/js-challenges/issues/482)
 
 ## 设计模式相关
 
@@ -524,7 +527,6 @@ TODOS
 - [对象 key 的驼峰转下划线](https://github.com/Sunny-117/Front-end-handwritten-question/issues/55)
 - [判断字符串中是否存在连续的三个数](https://github.com/Sunny-117/Front-end-handwritten-question/issues/56)
 - [((2+3)+(3*4))+2---->['(2 + 3)+(3 * 4)', '2 + 3', '3 \* 4'] ](https://github.com/Sunny-117/Front-end-handwritten-question/issues/57)
-- [正则表达式匹配 URL](https://github.com/Sunny-117/js-challenges/issues/478)
 
 ## 排序算法
 
