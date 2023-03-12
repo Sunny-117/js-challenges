@@ -276,6 +276,9 @@ TODOS
 - [策略模式](https://github.com/Sunny-117/js-challenges/issues/461)
 - [观察者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/62)
 - [发布订阅者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/60)
+- [工厂模式](https://github.com/Sunny-117/js-challenges/issues/487)
+- [代理模式](https://github.com/Sunny-117/js-challenges/issues/488)
+- [装饰器模式](https://github.com/Sunny-117/js-challenges/issues/489)
 
 ## 树-场景题（hot）
 
