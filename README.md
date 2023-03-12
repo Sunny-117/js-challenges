@@ -268,9 +268,6 @@ TODOS
 - [returnType](https://github.com/Sunny-117/js-challenges/issues/434)
 - [myReadonly2](https://github.com/Sunny-117/js-challenges/issues/435)
 - [Omit](https://github.com/Sunny-117/js-challenges/issues/429)
-- [repeat](https://github.com/Sunny-117/js-challenges/issues/480)
-- [add](https://github.com/Sunny-117/js-challenges/issues/481)
-- [CamelCase](https://github.com/Sunny-117/js-challenges/issues/482)
 
 ## 设计模式相关
 
@@ -279,6 +276,9 @@ TODOS
 - [策略模式](https://github.com/Sunny-117/js-challenges/issues/461)
 - [观察者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/62)
 - [发布订阅者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/60)
+- [工厂模式](https://github.com/Sunny-117/js-challenges/issues/487)
+- [代理模式](https://github.com/Sunny-117/js-challenges/issues/488)
+- [装饰器模式](https://github.com/Sunny-117/js-challenges/issues/489)
 
 ## 树-场景题（hot）
 
