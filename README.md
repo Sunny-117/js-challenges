@@ -43,22 +43,6 @@
 
 主要是让大家讨论出最优解，然后 merge，一起贡献这个项目，有些答案有点问题，所以我给出的答案仅作参考，也欢迎发现的小伙伴提 PR
 
-# 🎉🎉🎉 js-challanges-answer
-
-时隔三个月，js-challanges 由*收集答案阶段*正式进入*答案评估和产出*阶段
-
-**文档地址：https://sunny-117.github.io/js-challenges/**
-
-> 由于个人时间原因，预计开始时间：2023 年 3 月-4 月
-
-## 计划
-
-🔥 每一题录制讲解视频，发布到我的 B 站账号上 https://space.bilibili.com/447694807, 第一次录视频，请不要喷 🙈🙈🙈
-
-🚀 讲解文章和题目答案发布到掘金社区和本仓库
-
-🎉 追求极致，每一题达到最优解
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Sunny-117/js-challenges/issues). You can also take a look at the [contributing guide](https://github.com/Sunny-117/js-challenges#%E8%B4%A1%E7%8C%AE%E6%AD%A4%E9%A1%B9%E7%9B%AE).
