@@ -51,19 +51,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Thank you to all the people who already contributed to js-challenges!
 
-
-# js-challenges 用户微信群
-
-主要用来解答 js-challenges 用户的疑问，js-challenges 的贡献，计划 js-challenges 的未来(建议)
-
-欢迎加我微信，我拉你进群：17560850561
-
-<center class="half">
-<img src="./assets/qun.png" width="100">
-<img src="./assets/me.png" width="100">
-</center>
-<!-- ![](assets/2023-01-11-13-05-42.png)![](assets/2023-01-11-13-08-34.png) -->
-
 # 前端 JavaScript 手写题
 
 ## JavaScript HOT 100 题
