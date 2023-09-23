@@ -435,6 +435,7 @@ TODOS
 
 ## 数组
 
+- [把数组排成最小的数](https://github.com/Sunny-117/js-challenges/issues/501)
 - [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
 - [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/277)
 
