@@ -564,14 +564,6 @@ TODOS
 - [不同的子序列](https://github.com/Sunny-117/js-challenges/issues/448)
 - [最长重复子串](https://github.com/Sunny-117/js-challenges/issues/449)
 
-# 更新中
-
-![](js.png)
-
-![](algorithm.png)
-
-
-大家可以给仓库一些建议，本仓库资源来源于社区，也完全服务于社区
 
 社区建议收集区：https://github.com/Sunny-117/js-challenges/discussions
 
@@ -581,6 +573,7 @@ TODOS
 
 整理不易，如果您觉得本项目对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X 元，^\_^，谢谢！
 
+<img src="./alipay.jpg" width="200"> <img src='./weixin.png' width="200">
 
 ## 📝 License
 
