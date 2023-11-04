@@ -29,6 +29,10 @@
 - Github: [@sunny-117](https://github.com/sunny-117)
 - personal share: [个人分享](https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Sunny-117/js-challenges&type=Date)](https://star-history.com/#Sunny-117/js-challenges&Date)
+
 # CONTENT
 
 前端手写题集锦 记录大厂**笔试，面试常考**手写题，2022 年前端面试中常见的 leetcode 算法题, 致力打造最全的前端 JavaScript 手写题题库和答案的最优解
