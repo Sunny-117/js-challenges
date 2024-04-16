@@ -223,6 +223,7 @@ TODOS
 - [标签整理分类题](https://github.com/Sunny-117/js-challenges/issues/391)
 - [求集合单词组合起来的不同结果，集合中的单词不重复，每个结果包含所有单词](https://github.com/Sunny-117/js-challenges/issues/418)
 - [实现简易版的useState](https://github.com/Sunny-117/js-challenges/issues/502)
+- [数组乱序-百度实习](https://github.com/Sunny-117/js-challenges/issues/508)
 
 ## ts 类型体操
 
@@ -443,6 +444,7 @@ TODOS
 - [把数组排成最小的数](https://github.com/Sunny-117/js-challenges/issues/501)
 - [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
 - [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/277)
+
 
 ## 链表
 
