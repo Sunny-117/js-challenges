@@ -29,6 +29,10 @@
 - Github: [@sunny-117](https://github.com/sunny-117)
 - personal share: [个人分享](https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0)
 
+## Project Status
+
+![Alt](https://repobeats.axiom.co/api/embed/297d193ee905d338d37a9afddbc8bbe1a336097e.svg "Repobeats analytics image")
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sunny-117/js-challenges&type=Date)](https://star-history.com/#Sunny-117/js-challenges&Date)
