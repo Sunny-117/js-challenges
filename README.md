@@ -80,8 +80,6 @@ Thank you to all the people who already contributed to js-challenges!
 - [发布订阅者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/60)
 - [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
 
-TODOS
-
 ## 实现 Promise （hot）
 
 - [完整实现 Promise A+](https://github.com/Sunny-117/Front-end-handwritten-question/issues/8)
