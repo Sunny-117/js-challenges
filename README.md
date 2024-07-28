@@ -79,6 +79,8 @@ Thank you to all the people who already contributed to js-challenges!
 - [寄生组合式继承](https://github.com/Sunny-117/Front-end-handwritten-question/issues/59)
 - [发布订阅者模式](https://github.com/Sunny-117/Front-end-handwritten-question/issues/60)
 - [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
+- [实现有并行限制的 Promise 调度器](https://github.com/Sunny-117/Front-end-handwritten-question/issues/149)
+- [实现一个 LazyMan ](https://github.com/Sunny-117/js-challenges/issues/382)
 
 ## 实现 Promise （hot）
 
