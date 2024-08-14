@@ -1,6 +1,6 @@
 {
   "name": "js-challenges",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "type": "module",
   "main": "index.js",
@@ -12,7 +12,8 @@
   "scripts": {
     "cli": "node ./lib/node/app.mjs",
     "build": "rollup -c rollup.config.js",
-    "gen-manifest": "node ./lib/scripts/gen-manifest.mjs"
+    "gen-manifest": "node ./lib/scripts/gen-manifest.mjs",
+    "release": "bumpp"
   },
   "keywords": [],
   "author": "",
@@ -29,6 +30,7 @@
     "@rollup/plugin-commonjs": "^23.0.2",
     "@rollup/plugin-json": "^5.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
+    "bumpp": "^9.5.1",
     "postcss": "^8.4.18",
     "rollup": "^3.2.5",
     "rollup-plugin-node-builtins": "^2.1.2",
