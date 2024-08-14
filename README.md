@@ -425,6 +425,11 @@ Thank you to all the people who already contributed to js-challenges!
 - [实现 Trie (前缀树)](https://github.com/Sunny-117/js-challenges/issues/250)
 - [top K](https://github.com/Sunny-117/js-challenges/issues/251)
 
+
+## 系统设计（场景）题
+
+- [原创-实现缓存类 TipCache设计](https://github.com/Sunny-117/js-challenges/issues/511)
+
 ## 其他
 
 - [tools-js](https://github.com/Sunny-117/js-challenges/issues/283)
