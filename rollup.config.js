@@ -1,10 +1,12 @@
-const { terser } = require('rollup-plugin-terser');
-const { nodeResolve } = require('@rollup/plugin-node-resolve');
-const commonjs = require('@rollup/plugin-commonjs');
-const postcss = require('rollup-plugin-postcss');
-const json = require('@rollup/plugin-json');
-const builtins = require('rollup-plugin-node-builtins');
-const globals = require('rollup-plugin-node-globals');
+import { terser } from 'rollup-plugin-terser';
+import { nodeResolve } from '@rollup/plugin-node-resolve';
+import commonjs from '@rollup/plugin-commonjs';
+import postcss from 'rollup-plugin-postcss';
+import json from '@rollup/plugin-json';
+import builtins from 'rollup-plugin-node-builtins';
+import globals from 'rollup-plugin-node-globals';
+import { defineConfig } from 'rollup';
+
 const rollupPlugins = [
   postcss({
     inject: false
@@ -19,7 +21,7 @@ const rollupPlugins = [
   globals()
 ];
 
-module.exports = [
+export default defineConfig([
   {
     input: "./lib/browser/jcode.mjs",
     output: {
@@ -49,4 +51,4 @@ module.exports = [
     ],
     plugins: rollupPlugins,
   }
-];
+])
