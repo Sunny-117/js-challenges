@@ -377,6 +377,7 @@ Thank you to all the people who already contributed to js-challenges!
 - [遍历树组件](https://github.com/Sunny-117/Front-end-handwritten-question/issues/181)
 - [选项卡](https://github.com/Sunny-117/Front-end-handwritten-question/issues/180)
 - [拖拽](https://github.com/Sunny-117/Front-end-handwritten-question/issues/179)
+- [原创组件设计题：互斥级联表单组件](https://github.com/Sunny-117/js-challenges/issues/512)
 
 ## Vue 原理题
 
