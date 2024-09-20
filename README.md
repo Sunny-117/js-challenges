@@ -430,6 +430,7 @@ Thank you to all the people who already contributed to js-challenges!
 ## 系统设计（场景）题
 
 - [原创-实现缓存类 TipCache设计](https://github.com/Sunny-117/js-challenges/issues/511)
+- [百度社招：实现一个Observable](https://github.com/Sunny-117/js-challenges/issues/514)
 
 ## 其他
 
