@@ -229,6 +229,7 @@ Thank you to all the people who already contributed to js-challenges!
 - [实现简易版的useState](https://github.com/Sunny-117/js-challenges/issues/502)
 - [数组乱序-百度实习](https://github.com/Sunny-117/js-challenges/issues/508)
 - [排序找第几个最大-快手实习](https://github.com/Sunny-117/js-challenges/issues/509)
+- [怎么在制定数据源里面生成一个长度为 n 的不重复随机数组 能有几种方法 时间复杂度多少（字节）](https://github.com/Sunny-117/js-challenges/issues/516)
 
 ## ts 类型体操
 
