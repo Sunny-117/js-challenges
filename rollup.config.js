@@ -26,7 +26,7 @@ export default defineConfig([
     input: "./lib/browser/jcode.mjs",
     output: {
       dir: "dist",
-      sourcemap: true,
+      sourcemap: false,
       format: "esm",
       entryFileNames: "[name].js",
     },
@@ -37,13 +37,13 @@ export default defineConfig([
     output: [
       {
         dir: "dist",
-        sourcemap: true,
+        sourcemap: false,
         format: "esm",
         entryFileNames: "[name].[format].js",
       },
       {
         dir: "dist",
-        sourcemap: true,
+        sourcemap: false,
         format: "umd",
         name: 'Judger',
         entryFileNames: "[name].[format].js",
